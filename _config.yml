@@ -1,0 +1,15 @@
+title: Farid Rashidi
+description1: PhD Student
+description2: Indiana University Bloomington
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: farid_rashidi
+github_username:  faridrashidi
+linkedin_username: faridrashidi
+scholar_username: ed4YbAIAAAAJ
+comments: true
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
