@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <div class="home">
+      {% for post in site.posts %}
+      <ul class="post-list">
+        <li>
+      	  <span class="post-meta">{{ post.date | date_to_string }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+          </h3>
+        </li>
+       </ul>
+       {% endfor %}
+
+    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+    </div>
+
+  </div>
+</main>
