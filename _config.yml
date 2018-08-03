@@ -8,13 +8,11 @@ scholar_username: ed4YbAIAAAAJ
 comments: true
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "smart"]
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 # URL settings
 url: "https://faridrashidi.github.io"
