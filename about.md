@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="float: right; margin-left:30px;" src="assets/me.jpg" width="200" alt="me"/>
+<img style="float: right; margin-left:30px;" src="/assets/me.jpg" width="200" alt="me"/>
 
 I am a PhD student under supervion of [S. Cenk Sahinalp](https://www.soic.indiana.edu/all-people/profile.html?profile_id=291) working in [Bioinformatics and Computational Genomics Lab](http://www.iu.edu/~compgen/index.html) at the [Indiana University Bloomington](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining.
 
