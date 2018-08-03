@@ -17,4 +17,4 @@ Email: frashidi AT iu DOT edu
 
 ## News
   * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://www.biorxiv.org/content/early/2018/07/25/376996)
-  * **July 2018**, Participating in [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at UCLA
+  * **July 2018**, Attend [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
