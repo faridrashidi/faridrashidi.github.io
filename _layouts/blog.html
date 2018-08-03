@@ -5,19 +5,22 @@ layout: default
 <main class="page-content" aria-label="Content">
   <div class="wrapper">
     <div class="home">
-      {% for post in site.posts %}
       <ul class="post-list">
-        <li>
-      	  <span class="post-meta">{{ post.date | date_to_string }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-          </h3>
-        </li>
-       </ul>
-       {% endfor %}
+        {% for page in site.posts %}
+          <li>
+            <span class="post-meta">
+              {{ page.date | date: "%b %-d, %Y" }}
+      
+              {% include disqus-comment-link.html %}
+              | posted in {% include category-links.html %}
+            </span>
+      
+            <h2><a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+      <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
     </div>
-
   </div>
 </main>

@@ -2,7 +2,7 @@
 layout: post
 title: "My New Homepage"
 date: 2018-04-05
-categories: jekyll homepage
+categories: [jekyll, homepage]
 comments: true
 ---
 
