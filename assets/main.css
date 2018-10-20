@@ -636,3 +636,23 @@ pre > code {
 .highlight .il {
     color: #099
 }
+
+/* MY OWN CSS */
+.float-my-children > * {
+    float:left;
+    margin-right:5px;
+}
+
+.clearfix {
+    *zoom:1
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
