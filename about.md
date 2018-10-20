@@ -16,5 +16,6 @@ Email: frashidi AT iu DOT edu
 <br/><br/>
 
 ## News
+  * **September 2018**, Start organizing IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
   * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://www.biorxiv.org/content/early/2018/07/25/376996)
   * **July 2018**, Attend [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at UCLA
