@@ -4,6 +4,7 @@ title: Projects
 ---
 
 <p><img width="200" src="/assets/phiscs.png" alt="" style="float:left;margin-right:15px;">
+  <p></p>
   <p>
     <a href="http://github.com/faridrashidi/kaggle"><b>Kaggle Past Solutions</b></a>
   </p>
@@ -15,6 +16,7 @@ title: Projects
 <br><br>
 
 <p><img width="200" src="/assets/phiscs.png" alt="" style="float:left;margin-right:15px;">
+  <p></p>
   <p>
     <a href="https://github.com/haghshenas/PhISCS"><b>PhISCS</b></a>
   </p>
