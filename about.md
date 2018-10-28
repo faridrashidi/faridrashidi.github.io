@@ -11,7 +11,7 @@ I completed [my Master’s](http://library.sharif.ir/parvan/resource/444343/یا
 
 
 Office: 2033F, [Luddy Hall](https://goo.gl/maps/9mtD9Cgj4fT2)  
-Email: frashidi AT iu DOT edu
+Email: frashidi AT indiana DOT edu
 
 <br/><br/>
 
