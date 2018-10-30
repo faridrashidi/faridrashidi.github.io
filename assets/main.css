@@ -146,6 +146,7 @@ pre > code {
     border-top: 5px solid #424242;
     border-bottom: 1px solid #e8e8e8;
     min-height: 55.95px;
+    background-color: #8C1515;
     position: relative
 }
 
@@ -155,6 +156,7 @@ pre > code {
     line-height: 54px;
     letter-spacing: -1px;
     margin-bottom: 0;
+    color: #FFF;
     float: left
 }
 
