@@ -3,9 +3,23 @@ layout: default
 title: Projects
 ---
 
-## Projects
+## Publications
 
-Check out my [GitHub](https://github.com/faridrashidi) for more details.
+<!-- {:start="2"} -->
+
+1. **A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq** <br/>
+a joint work with Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj, manuscript. In preparation for Bioinformatics.
+
+
+2. [**A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models**](http://ieeexplore.ieee.org/document/7030334/)<br/>
+Emad Gohari Boroujerdi, Soroush Mehri, Saeed Sadeghi Garmaroudi, Mohammad Pezeshki, **Farid Rashidi Mehrabadi**, SeyyedSalim Malakouti, Shahram Khadivi<br/>
+Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
+{: reversed="reversed"}
+
+
+<br/>
+
+## Projects
 
 <table style="width: 100%;">
 	<tbody>
