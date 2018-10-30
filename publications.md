@@ -3,7 +3,9 @@ layout: default
 title: Publications
 ---
 
-Check out [google scholar](http://scholar.google.com/citations?user=ed4YbAIAAAAJ&hl=en) for citation statistics (and more).
+## Publications
+
+Check out my [Google Scholar](http://scholar.google.com/citations?user=ed4YbAIAAAAJ) for citation statistics (and more).
 
 {:start="2"}
 
