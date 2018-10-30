@@ -9,13 +9,18 @@ title: Secret
 
 <!-- {:start="2"} -->
 
-1. **A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq** <br/>
-a joint work with Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj, manuscript. In preparation for Bioinformatics.
+1. **PhISCS - A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single Cell and Bulk Sequencing Data**  
+Salem Malikic, Simone Ciccolella, **Farid Rashidi Mehrabadi**, Camir Ricketts, Md. Khaledur Rahman, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp  
 
-2. [**A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models**](http://ieeexplore.ieee.org/document/7030334/)<br/>
-Emad Gohari Boroujerdi, Soroush Mehri, Saeed Sadeghi Garmaroudi, Mohammad Pezeshki, **Farid Rashidi Mehrabadi**, SeyyedSalim Malakouti, Shahram Khadivi<br/>
-Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
-{: reversed="reversed"}
+<!-- 1. **A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq** <br/>
+a joint work with Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj, manuscript. In preparation for Bioinformatics. -->
+
+2. **A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models**  
+Emad Gohari Boroujerdi, Soroush Mehri, Saeed Sadeghi Garmaroudi, Mohammad Pezeshki, **Farid Rashidi Mehrabadi**, SeyyedSalim Malakouti, Shahram Khadivi  
+Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014  
+[[IEEE](http://ieeexplore.ieee.org/document/7030334/)][[PDF](/assets/dmc.pdf)]
+
+<!-- {: reversed="reversed"} -->
 
 
 <br/>
