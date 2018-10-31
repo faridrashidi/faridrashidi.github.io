@@ -11,10 +11,11 @@ title: Secret
 
 0. PhISCS - A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single Cell and Bulk Sequencing Data  
 Salem Malikic, Simone Ciccolella, **Farid Rashidi Mehrabadi**, Camir Ricketts, Md. Khaledur Rahman, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp  
-[[PDF](/assets/phiscs.pdf)]
+[[bioRxiv](https://www.biorxiv.org/content/early/2018/07/25/376996)][[PDF](/assets/phiscs.pdf)]
 
-<!-- 0. **A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq**  
-a joint work with Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj, manuscript. In preparation for Bioinformatics. -->
+<!-- 0. A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq  
+**Farid Rashidi Mehrabadi**, Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj  
+Manuscript. In preparation for Bioinformatics. -->
 
 0. A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models  
 Emad Gohari Boroujerdi, Soroush Mehri, Saeed Sadeghi Garmaroudi, Mohammad Pezeshki, **Farid Rashidi Mehrabadi**, SeyyedSalim Malakouti, Shahram Khadivi  
