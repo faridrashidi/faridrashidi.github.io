@@ -51,24 +51,24 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 
 <table style="width: 100%;">
 	<tbody>
-		<!-- <tr>
-			<td style="vertical-align:middle;">
-				<img src="/assets/phiscs.png" style="border-radius:10%; max-height:150px; max-width:150px;">
-			</td>
-			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
-				<h3 style="margin: 0">Kaggle Past Solutions</h3>
-				<p style="margin: 0">A searchable tool for finding the past solutions in kaggle competitions.</p>
-				[<a target="_blank" href="https://faridrashidi.github.io/kaggle/">Page</a>]
-			</td>
-		</tr> -->
 		<tr>
 			<td style="vertical-align:middle;">
 				<img src="/assets/phiscs.png" style="border-radius:10%; max-height:150px; max-width:150px;">
 			</td>
-				<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
 				<h3 style="margin: 0">PhISCS</h3>
 				<p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single Cell and Bulk Sequencing data, with latter being an optional.</p>
 				[<a href="https://github.com/haghshenas/PhISCS">Github</a>]
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:middle;">
+				<img src="/assets/kaggle.png" style="border-radius:10%; max-height:150px; max-width:150px;">
+			</td>
+			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+				<h3 style="margin: 0">Kaggle Solutions</h3>
+				<p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
+				[<a href="https://faridrashidi.github.io/kaggle-solutions/">Page</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Github</a>]
 			</td>
 		</tr>
 	</tbody>
