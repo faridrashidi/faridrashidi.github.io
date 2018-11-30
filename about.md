@@ -61,7 +61,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 				[<a href="https://github.com/haghshenas/PhISCS">Github</a>]
 			</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td style="vertical-align:middle;">
 				<img src="/assets/kaggle.png" style="border-radius:0%; max-height:150px; max-width:150px;">
 			</td>
@@ -70,6 +70,6 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 				<p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
 				[<a href="https://faridrashidi.github.io/kaggle-solutions/">Page</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Github</a>]
 			</td>
-		</tr>
+		</tr> -->
 	</tbody>
 </table>
