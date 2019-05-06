@@ -29,6 +29,7 @@ Email: frashidi AT indiana DOT edu
 {:start="2"}
 
 0. **PhISCS - A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single Cell and Bulk Sequencing Data**  
+<!-- Salem Malikic, Farid Rashidi, Simone Ciccolella, Md. Khaledur Rahman, Camir Ricketts, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp   -->
 Salem Malikic, Simone Ciccolella, Farid Rashidi, Camir Ricketts, Md. Khaledur Rahman, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp  
 [[bioRxiv](https://www.biorxiv.org/content/early/2018/07/25/376996)][[PDF](/assets/phiscs.pdf)]
 
@@ -58,7 +59,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
 				<h3 style="margin: 0">PhISCS</h3>
 				<p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single Cell and Bulk Sequencing data, with latter being an optional.</p>
-				[<a href="https://github.com/haghshenas/PhISCS">Github</a>]
+				[<a href="https://github.com/sfu-compbio/PhISCS">Github</a>]
 			</td>
 		</tr>
 		<!-- <tr>
