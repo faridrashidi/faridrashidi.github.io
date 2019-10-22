@@ -1,6 +1,6 @@
 title: Farid Rashidi
-description1: PhD Student
-description2: Indiana University Bloomington
+description1: PhD Student at Indiana University (IU)
+description2: PhD Student at Indiana University (IU)
 twitter_username: farid_rashidi
 github_username:  faridrashidi
 linkedin_username: faridrashidi
@@ -13,12 +13,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
 # URL settings
 url: "https://faridrashidi.github.io/"
 baseurl: ""
 permalink: /:title/
-
 
 # Integrations
 disqus_short_name: faridrashidi
