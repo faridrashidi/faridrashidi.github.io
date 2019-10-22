@@ -138,8 +138,9 @@ pre > code {
     padding-right: 5px
 }
 
-.social-media-list li + li {
-    padding-top: 0
+.contact-list, .social-media-list li + li {
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 .site-header {
@@ -251,8 +252,7 @@ pre > code {
 
 .contact-list, .social-media-list {
     list-style: none;
-    margin-left: 0;
-    padding-top: 5px
+    margin-left: 0
 }
 
 .footer-col-wrapper {
