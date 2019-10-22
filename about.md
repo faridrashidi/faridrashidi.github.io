@@ -54,7 +54,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 	<tbody>
 		<tr>
 			<td style="vertical-align:middle;">
-				<img src="/assets/phiscs.png" style="border-radius:0%; max-height:150px; max-width:150px;">
+				<img src="/assets/phiscs.png" style="border-radius:0%; width:120px;">
 			</td>
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
 				<p><strong>PhISCS</strong></p>
@@ -64,7 +64,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 		</tr>
 		<tr>
 			<td style="vertical-align:middle;">
-				<img src="/assets/kaggle.png" style="border-radius:0%; max-height:150px; max-width:150px;">
+				<img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
 			</td>
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
 				<p><strong>Kaggle Solutions</strong></p>
