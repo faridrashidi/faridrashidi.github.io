@@ -50,13 +50,15 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 
 ## Projects
 
-  * **PhISCS**  
-  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.
-  <img align="left" src="/assets/phiscs.png" width="150px">
+  * **PhISCS**
+  <img style="float: left; margin-right:10px;" src="/assets/phiscs.png" width="150px" alt="phiscs"/>
+  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.  
+  [[Webpage](https://faridrashidi.github.io/kaggle-solutions/)][[Code](https://github.com/faridrashidi/kaggle-solutions)]
 
-  * **PhISCS**  
-  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.
-  <img align="left" src="/assets/kaggle.png" width="150px">
+  * **PhISCS**
+  <img style="float: left; margin-right:10px;" src="/assets/phiscs.png" width="150px" alt="phiscs"/>
+  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.  
+  [[Webpage](https://faridrashidi.github.io/kaggle-solutions/)][[Code](https://github.com/faridrashidi/kaggle-solutions)]
 
 
 <!-- <table style="width: 100%;">
