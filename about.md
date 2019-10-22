@@ -31,7 +31,7 @@ Email: frashidi AT indiana DOT edu
 
   * **PhISCS: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data**  
 Salem Malikic, Farid Rashidi, Simone Ciccolella, Md. Khaledur Rahman, Camir Ricketts, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp  
-[[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](/assets/phiscs.pdf)][[Supplementary](/assets/phiscs-supplementary.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
+[[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf)][[Supplementary](https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
 
 <!-- 0. A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq  
 **Farid Rashidi Mehrabadi**, Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj  
