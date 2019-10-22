@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="200px" alt="me"/>
+<img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="28%" alt="me"/>
 
 I am a PhD student under supervion of [Dr. Cenk Sahinalp](https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp) working in [Bioinformatics and Computational Genomics Lab](https://algo-cancer.github.io) at [Indiana University Bloomington](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining.
 
@@ -50,7 +50,16 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 
 ## Projects
 
-<table style="width: 100%;">
+  * **PhISCS**  
+  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.
+  <img align="left" src="/assets/phiscs.png" width="150px">
+
+  * **PhISCS**  
+  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.
+  <img align="left" src="/assets/kaggle.png" width="150px">
+
+
+<!-- <table style="width: 100%;">
 	<tbody>
 		<tr>
 			<td style="vertical-align:middle;">
@@ -74,3 +83,4 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 		</tr>
 	</tbody>
 </table>
+ -->
