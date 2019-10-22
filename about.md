@@ -48,8 +48,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 <!-- ================================================== -->
 <br/>
 
-## Projects
-
+<h2 id="projects" style="margin-bottom:0px">Projects</h2>
 <table style="width: 100%;">
 	<tbody>
 		<tr>
