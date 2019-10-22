@@ -138,11 +138,6 @@ pre > code {
     padding-right: 5px
 }
 
-.contact-list, .social-media-list li + li {
-    padding-top: 4px;
-    padding-bottom: 4px;
-}
-
 .site-header {
     border-top: 5px solid #424242;
     border-bottom: 1px solid #e8e8e8;
