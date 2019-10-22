@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="28%" alt="me"/>
+<img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="200px" alt="me"/>
 
 I am a PhD student under supervion of [Dr. Cenk Sahinalp](https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp) working in [Bioinformatics and Computational Genomics Lab](https://algo-cancer.github.io) at [Indiana University Bloomington](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining.
 
@@ -50,25 +50,14 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 
 ## Projects
 
-  * **PhISCS**
-  <img style="float: left; margin-right:10px;" src="/assets/phiscs.png" width="150px" alt="phiscs"/>
-  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.  
-  [[Webpage](https://faridrashidi.github.io/kaggle-solutions/)][[Code](https://github.com/faridrashidi/kaggle-solutions)]
-
-  * **PhISCS**
-  <img style="float: left; margin-right:10px;" src="/assets/phiscs.png" width="150px" alt="phiscs"/>
-  A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.  
-  [[Webpage](https://faridrashidi.github.io/kaggle-solutions/)][[Code](https://github.com/faridrashidi/kaggle-solutions)]
-
-
-<!-- <table style="width: 100%;">
+<table style="width: 100%;">
 	<tbody>
 		<tr>
 			<td style="vertical-align:middle;">
 				<img src="/assets/phiscs.png" style="border-radius:0%; max-height:150px; max-width:150px;">
 			</td>
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
-				<h3 style="margin: 0">PhISCS</h3>
+				<p><strong>PhISCS</strong></p>
 				<p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.</p>
 				[<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
 			</td>
@@ -78,11 +67,10 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 				<img src="/assets/kaggle.png" style="border-radius:0%; max-height:150px; max-width:150px;">
 			</td>
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
-				<h3 style="margin: 0">Kaggle Solutions</h3>
+				<p><strong>Kaggle Solutions</strong></p>
 				<p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
 				[<a href="https://faridrashidi.github.io/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
 			</td>
 		</tr>
 	</tbody>
 </table>
- -->
