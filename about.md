@@ -5,7 +5,7 @@ title: About
 
 <img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="200px" alt="me"/>
 
-I am a PhD student under supervion of [Dr. Cenk Sahinalp](https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp) working in [Bioinformatics and Computational Genomics Lab](https://algo-cancer.github.io) at [Indiana University Bloomington](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining.
+I am a PhD student under supervision of [Dr. Cenk Sahinalp](https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp) working in [Bioinformatics and Computational Genomics Lab](https://algo-cancer.github.io) at [Indiana University Bloomington](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining.
 
 <!-- I am a predoctoral fellow at [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year PhD student studying Computer Science at [Indiana University Bloomington (IU)](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology, Machine Learning and Data Mining. More specifically, during my PhD program, I have focused on tumor evolution and tumor heterogeneity research area. -->
 
