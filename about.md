@@ -5,11 +5,11 @@ title: About
 
 <img style="float: left; margin-right:30px;" src="/assets/me.jpg" width="200px" alt="me"/>
 
-I am a predoctoral fellow at [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year PhD student studying Computer Science at [Indiana University Bloomington (IU)](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology and Machine Learning. More specifically, during my PhD program, I have focused on tumor evolution and tumor heterogeneity research area.
+I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). I have a broad set of interests within Bioinformatics, Computational Biology and Machine Learning. More specifically, during my Ph.D. program, I have focused on the tumor evolution and the tumor heterogeneity research areas.
 
-I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at [Sharif University of Technology](http://www.en.sharif.edu) where I worked on Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
+I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
-Office: 6N119, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
+Office: 6N117, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
 
 
@@ -17,11 +17,11 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  * **December 2019**, Joined National Cancer Institute as a Predoctoral fellow.
+  * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow.
   * **November 2019**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
-  * **September 2018**, Started organizing IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
+  * **September 2018**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
   * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://www.biorxiv.org/content/early/2018/07/25/376996)
-  * **July 2018**, Attended [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at UCLA
+  * **July 2018**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
 
 
 <!-- ================================================== -->
