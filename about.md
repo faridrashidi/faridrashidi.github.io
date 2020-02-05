@@ -70,7 +70,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
 				<p><strong>Kaggle Solutions</strong></p>
 				<p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions.</p>
-				[<a href="https://faridrashidi.github.io/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
+				[<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
 			</td>
 		</tr>
 	</tbody>
