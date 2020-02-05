@@ -14,7 +14,7 @@ plugins:
   - jekyll-feed
 
 # URL settings
-url: "https://faridrashidi.github.io/"
+url: "https://farid.one"
 baseurl: ""
 permalink: /:title/
 
