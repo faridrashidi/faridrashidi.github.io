@@ -53,26 +53,36 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
 
 <h2 id="projects" style="margin-bottom:0px">Projects</h2>
 <table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="vertical-align:middle;">
-				<img src="/assets/phiscs.png" style="border-radius:0%; width:120px;">
-			</td>
-			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
-				<p><strong>PhISCS</strong></p>
-				<p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.</p>
-				[<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
-			</td>
-		</tr>
-		<tr>
-			<td style="vertical-align:middle;">
-				<img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
-			</td>
-			<td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
-				<p><strong>Kaggle Solutions</strong></p>
-				<p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions.</p>
-				[<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
-			</td>
-		</tr>
-	</tbody>
+    <tbody>
+        <tr>
+            <td style="vertical-align:middle;">
+                <img src="/assets/phiscsbnb.png" style="border-radius:0%; width:120px;">
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+                <p><strong>PhISCS-BnB</strong></p>
+                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound.</p>
+                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:middle;">
+                <img src="/assets/phiscs.png" style="border-radius:0%; width:120px;">
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+                <p><strong>PhISCS</strong></p>
+                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.</p>
+                [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:middle;">
+                <img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+                <p><strong>Kaggle Solutions</strong></p>
+                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions.</p>
+                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
+            </td>
+        </tr>
+    </tbody>
 </table>
