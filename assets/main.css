@@ -140,9 +140,9 @@ pre > code {
 
 .site-header {
     border-top: 5px solid #424242;
+    /*border-bottom: 1px solid #e8e8e8;*/
     min-height: 55.95px;
     position: relative
-    /*border-bottom: 1px solid #e8e8e8;*/
 }
 
 .site-title {
@@ -299,7 +299,7 @@ pre > code {
 }
 
 .page-content {
-    padding: 30px 0
+    padding: 15px 0
 }
 
 .page-heading {
