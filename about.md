@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="float: right; margin-left:30px; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="27%" alt="me"/>
+<img style="float: right; margin-left:30px; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="200px" alt="me"/>
 
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
 
@@ -12,7 +12,6 @@ I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/4443
 <br/>
 Office: 6N117, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
-<br/>
 
 
 <!-- ================================================== -->
