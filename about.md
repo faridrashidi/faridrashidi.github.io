@@ -3,16 +3,13 @@ layout: default
 title: About
 ---
 
-<header class="post-header">
-    <h1 class="post-title"><strong>Farid</strong> Rashidi</h1>
-</header>
-
-<img style="float: right; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="33.33%" alt="me"/>
+<img style="float: right; margin-left:30px; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="27%" alt="me"/>
 
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
 
 I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
+<br/>
 Office: 6N117, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
 
