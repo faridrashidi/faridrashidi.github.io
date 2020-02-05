@@ -45,12 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #2a7ae2;
+    color: #1a0dab;
     text-decoration: none
-}
-
-a:visited {
-    color: #1756a9
 }
 
 a:hover {
@@ -153,10 +149,6 @@ pre > code {
     /*letter-spacing: -1px;*/
     margin-bottom: -30px;
     float: left
-}
-
-.site-title, .site-title:visited {
-    color: #424242
 }
 
 .site-nav {
