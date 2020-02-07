@@ -10,7 +10,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Can
 I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
 <br/>
-Office: 6N117, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
+Office: 2-5350.10, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
 
 
@@ -18,6 +18,7 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
+  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB]()
   * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow.
   * **November 2019**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
   * **September 2018**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
@@ -32,17 +33,10 @@ Email: frashidi AT iu DOT edu
 
 <!-- {:start="2"} -->
 
-  * **PhISCS: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data**  
-Salem Malikic, Farid Rashidi, Simone Ciccolella, Md. Khaledur Rahman, Camir Ricketts, Ehsan Haghshenas, Daniel Seidman, Faraz Hach, Iman Hajirasouliha, S. Cenk Sahinalp  
+  * PhISCS: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data  
 [[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf)][[Supplementary](https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
 
-<!-- 0. A Novel Algorithm for Discovering Splice Junction and Small Exon with RNA-Seq  
-**Farid Rashidi Mehrabadi**, Damoun Nashta-ali, Amirhossein Saberi, Seyed Abolfazl Motahari, Babak Khalaj  
-Manuscript. In preparation for Bioinformatics. -->
-
-  * **A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models**  
-Emad Gohari Boroujerdi, Soroush Mehri, Saeed Sadeghi Garmaroudi, Mohammad Pezeshki, Farid Rashidi, SeyyedSalim Malakouti, Shahram Khadivi  
-Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014  
+  * A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models  
 [[IEEE](http://ieeexplore.ieee.org/document/7030334/)][[PDF](/assets/dmc.pdf)]
 
 <!-- {: reversed="reversed"} -->
@@ -60,7 +54,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
                 <p><strong>PhISCS-BnB</strong></p>
-                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound.</p>
+                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm.</p>
                 [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
             </td>
         </tr>
@@ -70,7 +64,7 @@ Information and Knowledge Technology (IKT) Conference, pp. 61-66. IEEE, 2014
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
                 <p><strong>PhISCS</strong></p>
-                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of Single-cell and Bulk Sequencing data, with latter being an optional.</p>
+                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with latter being an optional.</p>
                 [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
