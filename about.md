@@ -18,8 +18,8 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB]()
-  * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow.
+  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB](https://www.biorxiv.org/content/10.1101/2020.02.06.938043v1)
+  * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow
   * **November 2019**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
   * **September 2018**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
   * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://www.biorxiv.org/content/early/2018/07/25/376996)
@@ -33,7 +33,7 @@ Email: frashidi AT iu DOT edu
 
 <!-- {:start="2"} -->
 
-  * PhISCS: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data  
+  * **PhISCS**: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data  
 [[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf)][[Supplementary](https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
 
   * A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models  
@@ -54,7 +54,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
                 <p><strong>PhISCS-BnB</strong></p>
-                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm.</p>
+                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
                 [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
             </td>
         </tr>
@@ -64,7 +64,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
                 <p><strong>PhISCS</strong></p>
-                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with latter being an optional.</p>
+                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with latter being an optional</p>
                 [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
@@ -74,7 +74,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
                 <p><strong>Kaggle Solutions</strong></p>
-                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions.</p>
+                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
                 [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]
             </td>
         </tr>
