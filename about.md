@@ -18,11 +18,11 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB](https://www.biorxiv.org/content/10.1101/2020.02.06.938043v1)
+  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
   * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow
   * **November 2019**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
   * **September 2018**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
-  * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://www.biorxiv.org/content/early/2018/07/25/376996)
+  * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
   * **July 2018**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
 
 
