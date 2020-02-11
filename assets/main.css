@@ -19,10 +19,10 @@ h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, dl, figure, .highlight {
     margin-bottom: 5px
 }
 
-div {
+/*div {
     text-align: justify;
     text-justify: inter-word;
-}
+}*/
 
 img {
     border-radius: 3%;
