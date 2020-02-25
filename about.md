@@ -10,7 +10,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Can
 I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
 <br/>
-Office: 2-5350.10, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
+Office: 2-6300.10, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
 
 
