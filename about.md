@@ -18,13 +18,13 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  <!-- * **March 2020**, Our PhISCS-BnB paper has been accepted by ISMB conference with ratings of +2, +2, and +1 -->
-  * **February 2020**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
-  * **December 2019**, Joined the National Cancer Institute as a Predoctoral fellow
-  * **November 2019**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
-  * **September 2018**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
-  * **July 2018**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
-  * **July 2018**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
+  * **Mar**, Our [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by ISMB conference with ratings of +2, +2, and +1
+  * **Feb**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
+  * **Dec**, Joined the National Cancer Institute as a Predoctoral fellow
+  * **Nov**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
+  * **Sep**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
+  * **Jul**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
+  * **Jul**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
 
 
 <!-- ================================================== -->
