@@ -18,7 +18,8 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  * **Mar**, Our [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by ISMB conference with ratings of +2, +2, and +1
+  * **Mar**, [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by ISMB conference with ratings of +2, +2, and +1
+  * **Feb**, [PhISCS](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118) paper has been accepted for RECOMB 2020 as a Highlights Talk
   * **Feb**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
   * **Dec**, Joined the National Cancer Institute as a Predoctoral fellow
   * **Nov**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
