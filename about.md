@@ -54,7 +54,7 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <img src="/assets/phiscsbnb.png" style="border-radius:0%; width:120px;">
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS-BnB</strong></p>
                 <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
                 [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
@@ -64,7 +64,7 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <img src="/assets/phiscs.png" style="border-radius:0%; width:120px;">
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
                 <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with latter being an optional</p>
                 [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
@@ -74,7 +74,7 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-top:10px; ">
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
                 <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
                 [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]

@@ -291,7 +291,8 @@ pre > code {
 }
 
 .page-content {
-    padding: 30px
+    margin-top: 30px;
+    margin-bottom: 30px
 }
 
 .page-heading {
