@@ -18,14 +18,14 @@ Email: frashidi AT iu DOT edu
 <br/>
 
 ## News
-  * **Mar**, [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by ISMB conference with ratings of +2, +2, and +1
-  * **Feb**, [PhISCS](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118) paper has been accepted for RECOMB 2020 as a Highlights Talk
-  * **Feb**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
-  * **Dec**, Joined the National Cancer Institute as a Predoctoral fellow
-  * **Nov**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
-  * **Sep**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
-  * **Jul**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
-  * **Jul**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
+  * **03/20**, [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by [ISMB conference](https://www.iscb.org/ismb2020) with ratings of +2, +2, and +1
+  * **02/20**, [PhISCS](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118) paper has been accepted for RECOMB 2020 as a Highlights Talk
+  * **02/20**, New pre-print on bioRxiv: [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043)
+  * **12/19**, Joined the National Cancer Institute as a Predoctoral fellow
+  * **11/19**, After more than two yaers of effort, PhISCS paper is finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
+  * **09/18**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
+  * **07/18**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
+  * **07/18**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
 
 
 <!-- ================================================== -->
@@ -35,7 +35,10 @@ Email: frashidi AT iu DOT edu
 
 <!-- {:start="2"} -->
 
-  * **PhISCS**: A Combinatorial Approach for Sub-perfect Tumor Phylogeny Reconstruction via Integrative use of Single-cell and Bulk Sequencing Data  
+  <!-- * **PhISCS-BnB**: A Fast Branch and Bound Algorithm for the Perfect Tumor Phylogeny Reconstruction Problem  
+[[Bioinformatics/ISMB 2020]()][[PDF]()][[Supplementary]()][[Code](https://github.com/algo-cancer/PhISCS-BnB)] -->
+
+  * **PhISCS**: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data  
 [[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf)][[Supplementary](https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
 
   * A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models  
@@ -66,7 +69,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
-                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with latter being an optional</p>
+                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional</p>
                 [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
