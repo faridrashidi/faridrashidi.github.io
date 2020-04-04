@@ -51,9 +51,10 @@ Email: frashidi AT iu DOT edu
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
+        <hr style="height:10pt; visibility:hidden;" />
         <tr>
             <td style="vertical-align:middle;">
-                <div data-badge-type="donut" data-doi="10.1109/ikt.2014.7030334" data-hide-no-mentions="true" class="altmetric-embed"></div>
+                <span class="__dimensions_badge_embed__" data-id="pub.1094389557" data-style="small_circle"></span>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
