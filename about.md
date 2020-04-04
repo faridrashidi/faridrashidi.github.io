@@ -14,7 +14,7 @@ Office: 2-6300.10, Building 10, [National Institutes of Health (NIH)](https://go
 Email: frashidi AT iu DOT edu
 
 
-<!-- ================================================== -->
+<!-- ==================================================================================================== -->
 <br/>
 
 ## News
@@ -28,7 +28,7 @@ Email: frashidi AT iu DOT edu
   * **07/18**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
 
 
-<!-- ================================================== -->
+<!-- ==================================================================================================== -->
 <br/>
 <h2 id="publications" style="margin-bottom:0px">Publications</h2>
 <table style="width: 100%;">
@@ -51,7 +51,7 @@ Email: frashidi AT iu DOT edu
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
-        <hr style="height:10pt; visibility:hidden;"></hr>
+        <!-- <hr style="height:10pt; visibility:hidden;"></hr> -->
         <tr>
             <td style="vertical-align:middle;">
                 <span class="__dimensions_badge_embed__" data-id="pub.1094389557" data-style="small_circle"></span>
@@ -65,7 +65,7 @@ Email: frashidi AT iu DOT edu
 </table>
 
 
-<!-- ================================================== -->
+<!-- ==================================================================================================== -->
 <br/>
 <h2 id="projects" style="margin-bottom:0px">Projects</h2>
 <table style="width: 100%;">
@@ -94,10 +94,10 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
             </td>
-            <td style="width:100%; vertical-align:bottom; padding-left:20px; ">
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
                 <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
-                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>][<a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a>]
+                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>][<span style="vertical-align:bottom><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span>][<a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>]
             </td>
         </tr>
     </tbody>
