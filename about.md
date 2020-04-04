@@ -38,11 +38,28 @@ Email: frashidi AT iu DOT edu
   <!-- * **PhISCS-BnB**: A Fast Branch and Bound Algorithm for the Perfect Tumor Phylogeny Reconstruction Problem  
 [[Bioinformatics/ISMB 2020]()][[PDF]()][[Supplementary]()][[Code](https://github.com/algo-cancer/PhISCS-BnB)] -->
 
-  * **PhISCS**: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data  
+
+<h2 id="publications" style="margin-bottom:0px">Publications</h2>
+<table style="width: 100%;">
+    <tbody>
+        <tr>
+            <td style="vertical-align:middle;">
+                <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
+                <p><strong>PhISCS</strong></p>
+                <p style="margin: 0">a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data  </p>
+                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+  <!-- * **PhISCS**: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data  
 [[Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)][[PDF](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf)][[Supplementary](https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf)][[Code](https://github.com/sfu-compbio/PhISCS)]
 
   * A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models  
-[[IEEE](http://ieeexplore.ieee.org/document/7030334/)][[PDF](/assets/dmc.pdf)]
+[[IEEE](http://ieeexplore.ieee.org/document/7030334/)][[PDF](/assets/dmc.pdf)] -->
 
 <!-- {: reversed="reversed"} -->
 
