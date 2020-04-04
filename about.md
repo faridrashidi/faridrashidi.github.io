@@ -30,23 +30,17 @@ Email: frashidi AT iu DOT edu
 
 <!-- ================================================== -->
 <br/>
-
-## Publications
-
-<!-- {:start="2"} -->
-
-
 <h2 id="publications" style="margin-bottom:0px">Publications</h2>
 <table style="width: 100%;">
     <tbody>
         <tr>
             <td style="vertical-align:middle;">
-                <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
+                <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
                 <p style="margin: 0">a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data  </p>
-                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
+                [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
     </tbody>
@@ -55,7 +49,6 @@ Email: frashidi AT iu DOT edu
 
 <!-- ================================================== -->
 <br/>
-
 <h2 id="projects" style="margin-bottom:0px">Projects</h2>
 <table style="width: 100%;">
     <tbody>
