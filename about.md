@@ -77,7 +77,7 @@ Email: frashidi AT iu DOT edu
     <tbody>
         <tr>
             <td style="vertical-align:middle;">
-                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="border-radius:0%; width:120px;"></a>
+                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="border-radius:0%; width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS-BnB</strong></p>
@@ -87,7 +87,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="vertical-align:middle;">
-                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="border-radius:0%; width:120px;"></a>
+                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="border-radius:0%; width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
@@ -97,7 +97,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="vertical-align:middle;">
-                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="border-radius:0%; width:120px;"></a>
+                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="border-radius:0%; width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
