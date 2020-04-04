@@ -30,7 +30,7 @@ Email: frashidi AT iu DOT edu
 
 <!-- ==================================================================================================== -->
 <br/>
-<h2 id="publications" style="margin-bottom:0px">Publications</h2>
+<h2 id="publications" style="margin-bottom:5px">Publications</h2>
 <table style="width: 100%;">
     <tbody>
         <!-- <tr>
@@ -44,6 +44,9 @@ Email: frashidi AT iu DOT edu
         </tr> -->
         <tr>
             <td style="vertical-align:middle;">
+                <div data-badge-type="donut" data-doi="10.1101/376996" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            </td>
+            <td style="vertical-align:middle;">
                 <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
@@ -53,6 +56,8 @@ Email: frashidi AT iu DOT edu
         </tr>
         <!-- <hr style="height:10pt; visibility:hidden;"></hr> -->
         <tr>
+            <td style="vertical-align:middle;">
+            </td>
             <td style="vertical-align:middle;">
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
@@ -67,7 +72,7 @@ Email: frashidi AT iu DOT edu
 
 <!-- ==================================================================================================== -->
 <br/>
-<h2 id="projects" style="margin-bottom:0px">Projects</h2>
+<h2 id="projects" style="margin-bottom:5px">Projects</h2>
 <table style="width: 100%;">
     <tbody>
         <tr>
