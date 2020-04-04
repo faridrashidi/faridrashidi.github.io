@@ -54,7 +54,7 @@ Email: frashidi AT iu DOT edu
         <!-- <hr style="height:10pt; visibility:hidden;"></hr> -->
         <tr>
             <td style="vertical-align:middle;">
-                <span class="__dimensions_badge_embed__" data-id="pub.1094389557" data-style="small_circle"></span>
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
@@ -72,7 +72,7 @@ Email: frashidi AT iu DOT edu
     <tbody>
         <tr>
             <td style="vertical-align:middle;">
-                <img src="/assets/phiscsbnb.png" style="border-radius:0%; width:120px;">
+                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="border-radius:0%; width:120px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS-BnB</strong></p>
@@ -82,7 +82,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="vertical-align:middle;">
-                <img src="/assets/phiscs.png" style="border-radius:0%; width:120px;">
+                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="border-radius:0%; width:120px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
@@ -92,7 +92,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="vertical-align:middle;">
-                <img src="/assets/kaggle.png" style="border-radius:0%; width:120px;">
+                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="border-radius:0%; width:120px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
