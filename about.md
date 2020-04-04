@@ -77,7 +77,7 @@ Email: frashidi AT iu DOT edu
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS-BnB</strong></p>
                 <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
-                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
+                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>][<a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a>][<a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>]
             </td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@ Email: frashidi AT iu DOT edu
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
                 <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional</p>
-                [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
+                [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>][<a class="github-button" href="https://github.com/sfu-compbio/PhISCS" data-show-count="true" aria-label="Star sfu-compbio/PhISCS on GitHub">Star</a>][<a class="github-button" href="https://github.com/sfu-compbio/PhISCS/fork" data-show-count="true" aria-label="Fork sfu-compbio/PhISCS on GitHub">Fork</a>]
             </td>
         </tr>
         <tr>
@@ -97,7 +97,7 @@ Email: frashidi AT iu DOT edu
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
                 <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
-                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>][<span style="vertical-align:bottom><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span>][<a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>]
+                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>][<span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span>][<a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>]
             </td>
         </tr>
     </tbody>
