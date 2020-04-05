@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="shape-outside: circle(); margin:0px 30px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="180px" alt="me"/>
+<img style="shape-outside: circle(); margin:0px 50px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="180px" alt="me"/>
 
 <!-- <p style="text-align: justify"> -->
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under the supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
@@ -73,32 +73,6 @@ Email: frashidi AT iu DOT edu
 </table>
 
 
-<table style="width: 100%;">
-    <tbody>
-        <tr>
-            <td style="vertical-align:middle; height:20%; width:20%;">
-                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="max-height:100%; max-width:100%"></a>
-            </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>PhISCS-BnB</strong></p>
-                <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
-                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]  <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
-            </td>
-        </tr>
-        <tr>
-            <td style="vertical-align:middle; height:20%; width:20%">
-                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="max-height:100%; max-width:100%"></a>
-            </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>PhISCS</strong></p>
-                <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional</p>
-                [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]  <a class="github-button" href="https://github.com/sfu-compbio/PhISCS" data-show-count="true" aria-label="Star sfu-compbio/PhISCS on GitHub">Star</a> <a class="github-button" href="https://github.com/sfu-compbio/PhISCS/fork" data-show-count="true" aria-label="Fork sfu-compbio/PhISCS on GitHub">Fork</a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
 <!-- ==================================================================================================== -->
 <br/>
 <h2 id="projects" style="margin-bottom:5px">Projects</h2>
@@ -139,19 +113,19 @@ Email: frashidi AT iu DOT edu
                 <a href="https://farid.one/kaggle-solutions/"><img src="/assets/sibche.png" style="border-radius:0%; width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>Kaggle Solutions</strong></p>
-                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
-                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]  <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
+                <p><strong>Sibche iOS App</strong></p>
+                <p style="margin: 0">The first irannian iOS application marketplace like Apple App Store</p>
+                [<a href="https://sibche.com/">Webpage</a>]
             </td>
         </tr>
         <tr>
             <td style="vertical-align:middle;">
-                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/tejarat.png" style="border-radius:0%; width:135px;"></a>
+                <img src="/assets/tejarat.png" style="border-radius:0%; width:135px;">
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>Kaggle Solutions</strong></p>
-                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
-                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]  <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
+                <p><strong>Tejarat iOS Mobile Bank</strong></p>
+                <p style="margin: 0">iOS application for one of the biggest banks in Iran</p>
+                [<a href="https://en.wikipedia.org/wiki/Tejarat_Bank">Tejarat Bank</a>]
             </td>
         </tr>
     </tbody>
