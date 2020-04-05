@@ -73,6 +73,19 @@ Email: frashidi AT iu DOT edu
 </table>
 
 
+<a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="border-radius:0%; float: left; width:20%;"></a>
+<p><strong>PhISCS-BnB</strong></p>
+<p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
+[<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]  <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
+
+
+<br/>
+<a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="border-radius:0%; float: left; width:20%;"></a>
+<p><strong>PhISCS-BnB</strong></p>
+<p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
+[<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]  <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
+
+
 <!-- ==================================================================================================== -->
 <br/>
 <h2 id="projects" style="margin-bottom:5px">Projects</h2>
