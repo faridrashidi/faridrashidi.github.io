@@ -76,7 +76,7 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
         <tr>
-            <td style="vertical-align:middle; width:20%;">
+            <td style="vertical-align:middle; height:20%; width:20%;">
                 <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="max-height:100%; max-width:100%"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
@@ -86,7 +86,7 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="vertical-align:middle; width:20%">
+            <td style="vertical-align:middle; height:20%; width:20%">
                 <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="max-height:100%; max-width:100%"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
