@@ -5,9 +5,8 @@ title: About
 
 <img style="shape-outside: circle(); margin:0px 30px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="180px" alt="me"/>
 
-<p style="text-align: justify">
+<!-- <p style="text-align: justify"> -->
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under the supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
-</p>
 
 I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on the Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
@@ -102,6 +101,26 @@ Email: frashidi AT iu DOT edu
         <tr>
             <td style="vertical-align:middle;">
                 <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="border-radius:0%; width:135px;"></a>
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
+                <p><strong>Kaggle Solutions</strong></p>
+                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
+                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]  <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:middle;">
+                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/sibche.png" style="border-radius:0%; width:135px;"></a>
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
+                <p><strong>Kaggle Solutions</strong></p>
+                <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
+                [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]  <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:middle;">
+                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/tejarat.png" style="border-radius:0%; width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
