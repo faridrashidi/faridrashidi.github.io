@@ -80,7 +80,7 @@ Email: frashidi AT iu DOT edu
     <tbody>
         <tr>
             <td style="text-align:center">
-                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="max-height:100px; max-weight:135px;"></a>
+                <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS-BnB</strong></p>
@@ -90,7 +90,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="text-align:center">
-                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="max-height:100px; max-weight:135px;"></a>
+                <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>PhISCS</strong></p>
@@ -100,7 +100,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="text-align:center">
-                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="max-height:100px; max-weight:135px;"></a>
+                <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Kaggle Solutions</strong></p>
@@ -110,7 +110,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="text-align:center">
-                <img src="/assets/sibche.png" style="max-height:100px; max-weight:135px;">
+                <img src="/assets/sibche.png" style="max-height:100px; max-width:135px;">
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Sibche iOS App</strong></p>
@@ -120,7 +120,7 @@ Email: frashidi AT iu DOT edu
         </tr>
         <tr>
             <td style="text-align:center">
-                <img src="/assets/tejarat.png" style="max-height:100px; max-weight:135px;">
+                <img src="/assets/tejarat.png" style="max-height:100px; max-width:135px;">
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
                 <p><strong>Tejarat iOS Mobile Bank</strong></p>
