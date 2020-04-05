@@ -51,7 +51,8 @@ Email: frashidi AT iu DOT edu
                 <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
+                <p><strong>PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</strong></p>
+                <p style="margin: 0">Salem Malikic*, FR*, ..., S. Cenk Sahinalp</p>
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
@@ -63,7 +64,8 @@ Email: frashidi AT iu DOT edu
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
+                <p><strong>A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</strong></p>
+                <p style="margin: 0">Emad Gohari, Soroush Mehri, ..., Shahram Khadivi</p>
                 [<a href="http://ieeexplore.ieee.org/document/7030334/">IEEE</a>][<a href="/assets/dmc.pdf">PDF</a>]
             </td>
         </tr>
