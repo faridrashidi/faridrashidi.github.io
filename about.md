@@ -45,25 +45,25 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr> -->
         <tr>
-            <td style="vertical-align:middle;">
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
                 <div data-badge-type="donut" data-doi="10.1101/376996" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
-            <td style="vertical-align:middle;">
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
                 <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <!-- <p><strong>Salem Malikic*, FR*, ..., S. Cenk Sahinalp</strong></p> -->
                 <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
         <tr>
-            <td style="vertical-align:middle;">
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
             </td>
-            <td style="vertical-align:middle;">
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <!-- <p><strong>Emad Gohari, Soroush Mehri, ..., Shahram Khadivi</strong></p> -->
                 <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
                 [<a href="http://ieeexplore.ieee.org/document/7030334/">IEEE</a>][<a href="/assets/dmc.pdf">PDF</a>]
@@ -79,52 +79,52 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
                 <a href="https://github.com/algo-cancer/PhISCS-BnB"><img src="/assets/phiscsbnb.png" style="max-height:100px; max-width:135px;"></a>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <p><strong>PhISCS-BnB</strong></p>
                 <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
                 [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]  <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
             </td>
         </tr>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
                 <a href="https://github.com/sfu-compbio/PhISCS"><img src="/assets/phiscs.png" style="max-height:100px; max-width:135px;"></a>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <p><strong>PhISCS</strong></p>
                 <p style="margin: 0">A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional</p>
                 [<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]  <a class="github-button" href="https://github.com/sfu-compbio/PhISCS" data-show-count="true" aria-label="Star sfu-compbio/PhISCS on GitHub">Star</a> <a class="github-button" href="https://github.com/sfu-compbio/PhISCS/fork" data-show-count="true" aria-label="Fork sfu-compbio/PhISCS on GitHub">Fork</a>
             </td>
         </tr>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
                 <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="max-height:100px; max-width:135px;"></a>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <p><strong>Kaggle Solutions</strong></p>
                 <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
                 [<a href="https://farid.one/kaggle-solutions/">Webpage</a>][<a href="https://github.com/faridrashidi/kaggle-solutions">Code</a>]  <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
             </td>
         </tr>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
                 <img src="/assets/sibche.png" style="max-height:100px; max-width:135px;">
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
                 <p><strong>Sibche iOS App</strong></p>
-                <p style="margin: 0">The first irannian iOS application marketplace like Apple App Store, 2014</p>
+                <p style="margin: 0">A first irannian iOS application marketplace like Apple App Store, 2014</p>
                 [<a href="https://sibche.com/">Webpage</a>]
             </td>
         </tr>
         <tr>
-            <td style="text-align:center">
-                <img src="/assets/tejarat.png" style="max-height:100px; max-width:135px;">
+            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
+                <img src="/assets/tejarat.png" style="max-height:100px; max-width:135px; border-bottom: 1px solid #e9e9e9">
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
                 <p><strong>Tejarat iOS Mobile Bank</strong></p>
-                <p style="margin: 0">The iOS application for one of the biggest banks in Iran, 2012</p>
+                <p style="margin: 0">An iOS application for one of the biggest banks in Iran, 2012</p>
                 [<a href="https://en.wikipedia.org/wiki/Tejarat_Bank">Tejarat Bank</a>]
             </td>
         </tr>
