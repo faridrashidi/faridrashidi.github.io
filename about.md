@@ -3,9 +3,11 @@ layout: default
 title: About
 ---
 
-<img style="shape-outside: circle(); margin:0px 30px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="25%" alt="me"/>
+<img style="shape-outside: circle(); margin:0px 30px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="180px" alt="me"/>
 
+<p style="text-align: justify">
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under the supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
+</p>
 
 I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on the Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from the [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
@@ -50,22 +52,21 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</strong></p>
-                <p style="margin: 0">Salem Malikic*, FR*, ..., S. Cenk Sahinalp</p>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-bottom:10px;">
+                <!-- <p><strong>Salem Malikic*, FR*, ..., S. Cenk Sahinalp</strong></p> -->
+                <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
             </td>
         </tr>
-        <!-- <hr style="height:10pt; visibility:hidden;"></hr> -->
         <tr>
             <td style="vertical-align:middle;">
             </td>
             <td style="vertical-align:middle;">
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:20px; ">
-                <p><strong>A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</strong></p>
-                <p style="margin: 0">Emad Gohari, Soroush Mehri, ..., Shahram Khadivi</p>
+            <td style="width:100%; vertical-align:middle; padding-left:20px; padding-bottom:10px;">
+                <!-- <p><strong>Emad Gohari, Soroush Mehri, ..., Shahram Khadivi</strong></p> -->
+                <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
                 [<a href="http://ieeexplore.ieee.org/document/7030334/">IEEE</a>][<a href="/assets/dmc.pdf">PDF</a>]
             </td>
         </tr>
