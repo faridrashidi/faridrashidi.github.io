@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img style="float: right; margin-left:10px; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="33%" alt="me"/>
+<img style="shape-outside: circle(); margin:0px 30px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="/assets/me.jpg"  width="25%" alt="me"/>
 
 I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under the supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity.
 
