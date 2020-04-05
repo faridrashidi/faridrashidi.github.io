@@ -58,12 +58,12 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
+            <td style="vertical-align:middle;">
             </td>
-            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9">
+            <td style="vertical-align:middle;">
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/IKT.2014.7030334" data-legend="never" data-style="small_circle"></span>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
                 <!-- <p><strong>Emad Gohari, Soroush Mehri, ..., Shahram Khadivi</strong></p> -->
                 <p style="margin: 0">A Study on Prediction of User’s Tendency Toward Purchases in Online Websites Based on Behavior Models</p>
                 [<a href="http://ieeexplore.ieee.org/document/7030334/">IEEE</a>][<a href="/assets/dmc.pdf">PDF</a>]
@@ -119,7 +119,7 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="text-align:center; border-bottom: 1px solid #e9e9e9">
+            <td style="text-align:center;">
                 <img src="/assets/tejarat.png" style="max-height:100px; max-width:135px; border-bottom: 1px solid #e9e9e9">
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
