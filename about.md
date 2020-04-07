@@ -41,7 +41,7 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                 <div data-badge-type="donut" data-doi="10.1101/2020.02.06.938043" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; ">
+            <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
                 <p style="margin: 0">PhISCS-BnB: A Fast Branch and Bound Algorithm for the Perfect Tumor Phylogeny Reconstruction Problem</p>
                 <!-- [<a href="">Bioinformatics/ISMB 2020</a>][<a href="">PDF</a>][<a href="">Supplementary</a>] -->[<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]
             </td>
@@ -53,7 +53,7 @@ Email: frashidi AT iu DOT edu
             <td style="vertical-align:middle;">
                 <div data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9">
+            <td style="width:100%; vertical-align:middle; padding-left:15px;">
                 <!-- <p><strong>Salem Malikic*, FR*, ..., S. Cenk Sahinalp</strong></p> -->
                 <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
                 [<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>][<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
