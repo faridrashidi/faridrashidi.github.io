@@ -57,10 +57,10 @@ a:hover {
 a.btn {
     text-decoration: none;
     font-family: Helvetica;
-    color: #0095eb !important;
+    color: #38608C !important;
     display: inline-block;
     touch-action: manipulation;
-    border-color: #0095eb !important;
+    border-color: #38608C !important;
     border: 1px solid transparent;
     border-radius: 4px;
     line-height: 1.5;
@@ -71,7 +71,7 @@ a.btn {
 
 a.btn:hover {
     color: #fff !important;
-    background: #0095eb !important;
+    background: #38608C !important;
 }
 
 .social-media-list a:hover {
