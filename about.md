@@ -56,7 +56,7 @@ Email: frashidi AT iu DOT edu
             <td style="width:100%; vertical-align:middle; padding-left:15px;">
                 <!-- <p><strong>Salem Malikic*, FR*, ..., S. Cenk Sahinalp</strong></p> -->
                 <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
-                <a class="btn" href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a>[<a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a>][<a href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a>][<a href="https://github.com/sfu-compbio/PhISCS">Code</a>]
+                <a class="btn" href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118">Genome Research</a> <a class="btn" href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a> <a class="btn" href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a> <a href="https://github.com/sfu-compbio/PhISCS">Code</a>
             </td>
         </tr>
         <!-- <tr>
@@ -86,7 +86,7 @@ Email: frashidi AT iu DOT edu
             <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
                 <p><strong>PhISCS-BnB</strong></p>
                 <p style="margin: 0">A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm</p>
-                [<a href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>]  <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
+                <a class="btn" href="https://github.com/algo-cancer/PhISCS-BnB">Code</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB" data-show-count="true" aria-label="Star algo-cancer/PhISCS-BnB on GitHub">Star</a> <a class="github-button" href="https://github.com/algo-cancer/PhISCS-BnB/fork" data-show-count="true" aria-label="Fork algo-cancer/PhISCS-BnB on GitHub">Fork</a>
             </td>
         </tr>
         <tr>
