@@ -10,7 +10,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Can
 
 <br/>
 <!-- <p style="font-family:monospace"> -->
-Office: 2-6300.10, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
+Office: 2-6300, Building 10, [National Institutes of Health (NIH)](https://goo.gl/maps/XtuHbcXNd1tEC5us8)  
 Email: frashidi AT iu DOT edu
 
 
@@ -73,7 +73,7 @@ Email: frashidi AT iu DOT edu
 
 
 <!-- ==================================================================================================== -->
-<br/>
+<br/><br/>
 <h2 id="projects" style="margin-bottom:5px">Projects</h2>
 <table style="width: 100%;">
     <tbody>
