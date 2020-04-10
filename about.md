@@ -101,7 +101,7 @@ Email: frashidi AT iu DOT edu
             <td style="text-align:center; border-bottom: 1px solid #e9e9e9;">
                 <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="max-height:100px; max-width:135px;"></a>
             </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
+            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
                 <p><strong>Kaggle Solutions</strong></p>
                 <p style="margin: 0">A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions</p>
                 <a class="btn" href="https://farid.one/kaggle-solutions/">Webpage</a> <a class="btn" href="https://github.com/faridrashidi/kaggle-solutions">Code</a> <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
