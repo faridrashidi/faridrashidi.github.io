@@ -98,7 +98,7 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="text-align:center; border-bottom: 1px solid #e9e9e9;">
+            <td style="text-align:center;">
                 <a href="https://farid.one/kaggle-solutions/"><img src="/assets/kaggle.png" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
