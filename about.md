@@ -107,7 +107,7 @@ Email: frashidi AT iu DOT edu
                 <a class="btn" href="https://farid.one/kaggle-solutions/">Webpage</a> <a class="btn" href="https://github.com/faridrashidi/kaggle-solutions">Code</a> <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
             </td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td style="text-align:center; border-bottom: 1px solid #e9e9e9;">
                 <img src="/assets/sibche.png" style="max-height:100px; max-width:135px;">
             </td>
@@ -126,6 +126,6 @@ Email: frashidi AT iu DOT edu
                 <p style="margin: 0">An iOS application for one of the biggest banks in Iran, 2012</p>
                 <a class="btn" href="https://en.wikipedia.org/wiki/Tejarat_Bank">Tejarat Bank</a>
             </td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
