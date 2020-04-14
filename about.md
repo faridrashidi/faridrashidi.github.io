@@ -15,7 +15,7 @@ Email: frashidi AT iu DOT edu
 
 
 <!-- ==================================================================================================== -->
-<br/>
+<!-- <br/>
 
 ## News
   * **03/20**, [PhISCS-BnB](https://doi.org/10.1101/2020.02.06.938043) paper has been accepted by [ISMB conference](https://www.iscb.org/ismb2020) with ratings of +2, +2, and +1
@@ -25,7 +25,7 @@ Email: frashidi AT iu DOT edu
   * **11/19**, After more than two years of effort, PhISCS paper has finally appeared in [Genome Research](https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118)
   * **09/18**, Started organizing the IU Machine Learning Reading Group: [IUMLRG](https://iumlrg.github.io)
   * **07/18**, New pre-print on bioRxiv: [PhISCS](https://doi.org/10.1101/376996)
-  * **07/18**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA
+  * **07/18**, Attended the [CGSI](http://computationalgenomics.bioinformatics.ucla.edu) program at the UCLA -->
 
 
 <!-- ==================================================================================================== -->
@@ -41,7 +41,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
                 <p style="margin: 0">PhISCS-BnB: A Fast Branch and Bound Algorithm for the Perfect Tumor Phylogeny Reconstruction Problem</p>
-                <!-- [<a href="">Bioinformatics/ISMB 2020</a>][<a href="">PDF</a>][<a href="">Supplementary</a>] --><a class="btn" href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>
+                <!-- [<a href="">Bioinformatics/Proceedings of ISMB 2020</a>][<a href="">PDF</a>][<a href="">Supplementary</a>] --><a class="btn" href="https://github.com/algo-cancer/PhISCS-BnB">Code</a>
             </td>
         </tr>
         <tr>
