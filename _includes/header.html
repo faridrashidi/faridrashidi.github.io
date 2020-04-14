@@ -4,7 +4,7 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a> -->
-    <a class="site-title" style="a:hover: text-decoration: none;" href="{{ "/" | relative_url }}"><h1 class="site-title"><strong>Farid</strong> Rashidi</a></h1>
+    <h1 class="site-title"><a href="{{ "/" | relative_url }}"><strong>Farid</strong> Rashidi</a></h1>
   
     {% if page_paths %}
       <nav class="site-nav">

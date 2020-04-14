@@ -161,7 +161,8 @@ pre > code {
     position: relative
 }
 
-.site-title {
+.site-title a:hover {
+    text-decoration: none;
     font-size: 32px;
     font-weight: 300;
     line-height: 64px;
