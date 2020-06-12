@@ -4,10 +4,10 @@
       
       <div class="footer-col" style="float:left">
         <ul class="contact-list">
-          <li style="font-weight:bold; padding-bottom:3px">
+          <li style="font-weight:bold; padding-bottom:5px">
             {{ site.title }}
           </li>
-          <li style="padding-bottom:3px">
+          <li style="padding-bottom:5px">
             {{ site.description1 }}
           </li>
           <li>
@@ -28,7 +28,12 @@
               </span><span class="username">GitHub</span></a>
           </li>
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="icon  icon-linkedin">
+                {% include icon-twitter.html %}
+              </span>
+              <span class="username">Twitter</span>
+            </a>
           </li> 
           <li>
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
