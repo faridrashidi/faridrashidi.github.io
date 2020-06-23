@@ -34,11 +34,11 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
         <tr>
-        	<td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
-        		<a href="https://doi.org/10.1101/2020.02.06.938043"><img src="/assets/cover.phiscsbnb.png" style="max-height:100px; max-width:135px;"></a>
-            </td>
             <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/2020.02.06.938043" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            </td>
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+               <a href="https://doi.org/10.1101/2020.02.06.938043"><img src="/assets/cover.phiscsbnb.jpg" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
                 <p style="margin: 0">PhISCS-BnB: A Fast Branch and Bound Algorithm for the Perfect Tumor Phylogeny Reconstruction Problem</p>
@@ -46,11 +46,14 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="vertical-align:middle;">
+            <!-- <td style="vertical-align:middle;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/376996" data-hide-no-mentions="true" class="altmetric-embed"></div>
-            </td>
+            </td> -->
             <td style="vertical-align:middle;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            </td>
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+               <a href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118"><img src="/assets/cover.phiscs.jpg" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px;">
                 <!-- <p><strong>Salem Malikic*, FR*, ..., S. Cenk Sahinalp</strong></p> -->
