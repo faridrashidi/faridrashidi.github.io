@@ -6,7 +6,7 @@ title: About
 <img style="border: 3px solid black; shape-outside: circle(); margin:0px 50px 0px 0px; border-radius: 50%; float: left; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048"  width="180px" alt="me"/>
 
 <!-- <p style="text-align: justify"> -->
-I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under the supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity. I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on the Learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing), supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
+I am a predoctoral fellow at the [National Cancer Institute (NCI) Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IU)](https://www.indiana.edu). My main research focus is on Cancer Evolution and Tumor Heterogeneity. I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing) problem, supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
 <br/>
 <!-- <p style="font-family:monospace"> -->
@@ -34,8 +34,8 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
         <tr>
-        	<td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
-            </td>
+        	<!-- <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+            </td> -->
             <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/2020.02.06.938043" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
@@ -45,9 +45,9 @@ Email: frashidi AT iu DOT edu
             </td>
         </tr>
         <tr>
-            <td style="vertical-align:middle;">
+            <!-- <td style="vertical-align:middle;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/376996" data-hide-no-mentions="true" class="altmetric-embed"></div>
-            </td>
+            </td> -->
             <td style="vertical-align:middle;">
                 <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/gr.234435.118" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
