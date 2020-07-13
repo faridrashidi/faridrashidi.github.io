@@ -152,9 +152,9 @@ pre > code {
     }
 }
 
-svg {
+/*svg {
     width: 14px
-}
+}*/
 
 .wrapper:after, .footer-col-wrapper:after {
     content: "";
