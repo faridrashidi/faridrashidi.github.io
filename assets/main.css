@@ -4,8 +4,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 }
 
 body {
-    /*font: 400 16px / 1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font-family: 'Font Awesome\ 5 Free', sans-serif;
+    font: 400 16px / 1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #1c1c1c;
     background-color: #fdfdfd;
     -webkit-text-size-adjust: 100%;
