@@ -24,11 +24,11 @@ Email: frashidi AT iu DOT edu
                <a href="https://doi.org/10.1093/bioinformatics/btaa464"><img src="/assets/cover.phiscsbnb.jpg" style="max-height:100px; max-width:135px;"></a>
             </td>
             <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
-                <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1101/2020.02.06.938043" data-hide-no-mentions="true" class="altmetric-embed"></div>
+                <div data-badge-popover="left" data-badge-type="donut" data-doi="10.1093/bioinformatics/btaa464" data-hide-no-mentions="true" class="altmetric-embed"></div>
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
                 <p style="margin: 0">PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem</p>
-                <a class="btn" href="https://doi.org/10.1093/bioinformatics/btaa464">Bioinformatics</a> <a class="btn" href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/hitseqcosi">Proceedings of ISMB 2020</a> <a class="btn" href="https://academic.oup.com/bioinformatics/article-pdf/36/Supplement_1/i169/33488705/btaa464.pdf">PDF</a> <a class="btn" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1597673670&Signature=Qony7NnlQgvjguC0uOE5000ryi8agyndgfbJEJRVMx7Q5S7~Q~mG1kty-v5bVWI37ss1E-XfkD2FXGroETcbuAirsq-Fd8xVPlibfILM7JeeG682X2zTSUZLLwDW8uq-1lK9hKjH19VIHeqPTP070CUxtZ-hBI495zJEiXDspZmCIP73AkCRX0QwQ2fxzXJL3GN8Kggar3zIOmYNnROqU74rZ3O9-2mfvSOq6NzOxA6b37C~WFK-kABK1-bW8~k~IR5X7-25tHmYwcmevPB9~ep9qC5z~onz8kgDqD72K7oFeWKtZ13w9OE6m6tnILY6GdBLRl5jIVKx0CcGvLuOEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplementary</a> <a class="btn" href="https://github.com/algo-cancer/PhISCS-BnB">Code</a> <!-- <a class="btn" href="https://www.youtube.com/">Presentation</a> -->
+                <a class="btn" href="https://doi.org/10.1093/bioinformatics/btaa464">Bioinformatics</a> <a class="btn" href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/hitseqcosi">Proceedings of ISMB 2020</a> <a class="btn" href="https://academic.oup.com/bioinformatics/article-pdf/36/Supplement_1/i169/33488705/btaa464.pdf">PDF</a> <a class="btn" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1597673670&Signature=Qony7NnlQgvjguC0uOE5000ryi8agyndgfbJEJRVMx7Q5S7~Q~mG1kty-v5bVWI37ss1E-XfkD2FXGroETcbuAirsq-Fd8xVPlibfILM7JeeG682X2zTSUZLLwDW8uq-1lK9hKjH19VIHeqPTP070CUxtZ-hBI495zJEiXDspZmCIP73AkCRX0QwQ2fxzXJL3GN8Kggar3zIOmYNnROqU74rZ3O9-2mfvSOq6NzOxA6b37C~WFK-kABK1-bW8~k~IR5X7-25tHmYwcmevPB9~ep9qC5z~onz8kgDqD72K7oFeWKtZ13w9OE6m6tnILY6GdBLRl5jIVKx0CcGvLuOEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplementary</a> <a class="btn" href="https://github.com/algo-cancer/PhISCS-BnB">Code</a> <a class="btn" href="https://youtu.be/bZdGkjJBtJY">Presentation</a>
             </td>
         </tr>
         <tr>
@@ -40,7 +40,7 @@ Email: frashidi AT iu DOT edu
             </td>
             <td style="width:100%; vertical-align:middle; padding-left:15px;">
                 <p style="margin: 0">PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data</p>
-                <a class="btn" href="http://doi.org/10.1101/gr.234435.118">Genome Research</a> <a class="btn" href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a> <a class="btn" href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a> <a class="btn" href="https://github.com/sfu-compbio/PhISCS">Code</a>
+                <a class="btn" href="http://doi.org/10.1101/gr.234435.118">Genome Research</a> <a class="btn" href="https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf">PDF</a> <a class="btn" href="https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf">Supplementary</a> <a class="btn" href="https://github.com/sfu-compbio/PhISCS">Code</a> <a class="btn" href="https://youtu.be/i8zetg_5n8g">Presentation</a>
             </td>
         </tr>
     </tbody>
@@ -82,25 +82,5 @@ Email: frashidi AT iu DOT edu
                 <a class="btn" href="https://farid.one/kaggle-solutions/">Webpage</a> <a class="btn" href="https://github.com/faridrashidi/kaggle-solutions">Code</a> <span style="vertical-align:bottom"><a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions" data-show-count="true" aria-label="Star faridrashidi/kaggle-solutions on GitHub">Star</a></span> <a class="github-button" href="https://github.com/faridrashidi/kaggle-solutions/fork" data-show-count="true" aria-label="Fork faridrashidi/kaggle-solutions on GitHub">Fork</a>
             </td>
         </tr>
-        <!-- <tr>
-            <td style="text-align:center; border-bottom: 1px solid #e9e9e9;">
-                <img src="/assets/logo.sibche.png" style="max-height:100px; max-width:135px;">
-            </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
-                <p><strong>Sibche iOS App</strong></p>
-                <p style="margin: 0">A first irannian iOS application marketplace like Apple App Store, 2014</p>
-                <a class="btn" href="https://sibche.com/">Webpage</a>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;">
-                <img src="/assets/logo.tejarat.png" style="max-height:100px; max-width:135px; border-bottom: 1px solid #e9e9e9;">
-            </td>
-            <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px;">
-                <p><strong>Tejarat iOS Mobile Bank</strong></p>
-                <p style="margin: 0">An iOS application for one of the biggest banks in Iran, 2012</p>
-                <a class="btn" href="https://en.wikipedia.org/wiki/Tejarat_Bank">Tejarat Bank</a>
-            </td>
-        </tr> -->
     </tbody>
 </table>
