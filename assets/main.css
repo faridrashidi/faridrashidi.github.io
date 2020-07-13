@@ -90,9 +90,12 @@ iframe.yt {
     border: 0;
 }
 
-.social-media-list a:hover {
-    text-decoration: none;
+.social-media-list {
     font-size: 13px
+}
+
+.social-media-list a:hover {
+    text-decoration: none
 }
 
 .social-media-list a:hover .username {
