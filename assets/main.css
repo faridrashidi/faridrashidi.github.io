@@ -91,7 +91,8 @@ iframe.yt {
 }
 
 .social-media-list a:hover {
-    text-decoration: none
+    text-decoration: none;
+    font-size: 13px
 }
 
 .social-media-list a:hover .username {
@@ -149,6 +150,10 @@ pre > code {
         padding-right: 15px;
         padding-left: 15px
     }
+}
+
+svg {
+    width: 14px
 }
 
 .wrapper:after, .footer-col-wrapper:after {
@@ -280,7 +285,6 @@ pre > code {
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
     color: #828282;
     margin-left: -15px
 }
