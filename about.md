@@ -48,7 +48,7 @@ Email: frashidi AT iu DOT edu
 
 
 <!-- ==================================================================================================== -->
-<br/><br/>
+<br/>
 <h2 id="projects" style="margin-bottom:5px">Projects</h2>
 <table style="width: 100%;">
     <tbody>
