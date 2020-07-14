@@ -19,6 +19,18 @@ Email: frashidi AT iu DOT edu
 <h2 id="publications" style="margin-bottom:5px">Publications</h2>
 <table style="width: 100%;">
     <tbody>
+        <!-- <tr>
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+               <a href="https://doi.org/"><img src="/assets/cover.biorxiv.jpg" style="max-height:100px; max-width:135px;"></a>
+            </td>
+            <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+                <div data-badge-popover="left" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+            </td>
+            <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
+                <p style="margin: 0">Studying the history of tumor evolution from single-cell sequencing data by exploring the space of binary matrices</p>
+                <a class="btn" href="https://doi.org/">bioRxiv</a> <a class="btn" href="">PDF</a>
+            </td>
+        </tr> -->
         <tr>
             <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                <a href="https://doi.org/10.1093/bioinformatics/btaa464"><img src="/assets/cover.phiscsbnb.jpg" style="max-height:100px; max-width:135px;"></a>
