@@ -18,10 +18,10 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
             {% for item in site.data.publications.publications %}
-                <!-- {% if item.border == 'true' %} -->
-                    <!-- {% assign border = "border-bottom: 1px solid #e9e9e9;" %} -->
-                <!-- {% else %} -->
-                    <!-- {% assign border = "" %} -->
+                <!-- {% if item.border == 'true' %}
+                    {% assign border = "border-bottom: 1px solid #e9e9e9;" %}
+                {% else %}
+                    {% assign border = "" %} -->
                 <tr>
                     <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                         <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
