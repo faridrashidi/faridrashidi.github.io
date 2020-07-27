@@ -1,7 +1,7 @@
 publications:
   - number: '3'
     title: 'Studying the history of tumor evolution from single-cell sequencing data by exploring the space of binary matrices'
-    pubmed: ''
+    pubmed: '#'
     doi: '10.1101/2020.07.15.204081'
     cover: 'cover.biorxiv.jpg'
     border: 'true'
