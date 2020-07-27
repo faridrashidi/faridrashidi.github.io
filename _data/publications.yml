@@ -3,7 +3,7 @@ publications:
     pubmed: ''
     doi: '10.1101/2020.07.15.204081'
     cover: 'cover.biorxiv.jpg'
-    border: 'true'
+    # border: 'true'
     links:
       - title: 'bioRxiv'
         url: 'https://doi.org/10.1101/2020.07.15.204081'
@@ -14,7 +14,7 @@ publications:
     pubmed: '32657358'
     doi: '10.1093/bioinformatics/btaa464' #10.1101/2020.02.06.938043
     cover: 'cover.phiscsbnb.jpg'
-    border: 'true'
+    # border: 'true'
     links:
       - title: 'Bioinformatics'
         url: 'https://doi.org/10.1093/bioinformatics/btaa464'
@@ -33,7 +33,7 @@ publications:
     pubmed: '31628256'
     doi: '10.1101/gr.234435.118' #10.1101/376996
     cover: 'cover.phiscs.jpg'
-    border: 'false'
+    # border: 'false'
     links:
       - title: 'Genome Research'
         url: 'https://doi.org/10.1101/gr.234435.118'
