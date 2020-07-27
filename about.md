@@ -18,14 +18,18 @@ Email: frashidi AT iu DOT edu
 <table style="width: 100%;">
     <tbody>
             {% for item in site.data.publications.publications %}
+                {% if item.border == 'true' %}
+                    {% assign border = "border-bottom: 1px solid #e9e9e9;" %}
+                {% else %}
+                    {% assign border = "" %}
                 <tr>
-                    <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
-                        <a href="https://doi.org/{{ item.doi }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
+                    <td style="vertical-align:middle; {{ border }}">
+                        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
                     </td>
-                    <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
+                    <td style="vertical-align:middle; {{ border }}">
                         <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ item.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
                     </td>
-                    <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; border-bottom: 1px solid #e9e9e9;">
+                    <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
                         <p style="margin: 0">{{ item.title }}</p>
                         {% for btn in item.links %}
                             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
