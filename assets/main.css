@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, dl, figure, .highlight {
 
 img {
     border-radius: 3%;
-    transition: filter .5s ease-in-out;
+    transition: filter .1s ease-in-out;
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
 }
