@@ -45,7 +45,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
-          <div class="altmetric-embed" data-badge-type="1" data-doi="{{ item.doi }}"></div>
+          <div class="altmetric-embed" data-badge-type="bar" data-doi="{{ item.doi }}" style="display: inline"></div>
         </td>
       </tr>
     {% endfor %}
