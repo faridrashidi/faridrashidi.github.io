@@ -12,11 +12,15 @@ Office: 2-6300, Building 10, [National Institutes of Health (NIH)](https://goo.g
 Email: frashidi AT iu DOT edu
 
 
-<br/>
+<br/><br/>
 {% include title-bar.html title="Publications" %}
 <table style="width: 100%;">
     <tbody>
         {% for item in site.data.publications.publications %}
+            {% if item.number == '1' %}
+                {% assign iborder = "" %}
+            {% else %}
+                {% assign iborder = "border-bottom: 1px solid #e9e9e9;" %}
             <tr>
                 <td style="vertical-align:middle; border-bottom: 1px solid #e9e9e9;">
                     <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
@@ -36,7 +40,7 @@ Email: frashidi AT iu DOT edu
 </table>
 
 
-<br/>
+<br/><br/>
 {% include title-bar.html title="Software" %}
 <table style="width: 100%;">
     <tbody>
