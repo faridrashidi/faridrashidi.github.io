@@ -3,12 +3,12 @@ layout: default
 title: About
 ---
 
-<table style="width:50%; margin-left: auto; margin-right: auto;">
+<table style="width:100%; margin-left: auto; margin-right: auto;">
   <tr>
-    <td>
-      <img style="margin:0px 50px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="180px"/>
+    <td width="50%">
+      <img style="margin:0px 50px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="180px"/>
     </td>
-    <td>
+    <td width="50%">
       {% include social.html %}
     </td>
   </tr>
