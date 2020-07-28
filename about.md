@@ -6,7 +6,7 @@ title: About
 <table style="width:100%; margin-left: auto; margin-right: auto;">
   <tr>
     <td width="60%">
-      <img style="margin:0px 10px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="220px"/>
+      <img style="margin:0px 10px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px"/>
     </td>
     <td width="40%">
       <div style="float:left">
