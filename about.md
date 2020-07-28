@@ -64,8 +64,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
           <a href="{{ item.url }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
-          <p><strong>{{ item.title }}</strong></p>
-          <p style="margin: 0">{{ item.subtitle }}</p>
+          <p style="margin: 0">{{ item.title }}</p>
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
