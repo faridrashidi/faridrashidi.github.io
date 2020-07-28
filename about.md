@@ -9,10 +9,10 @@ title: About
       <img style="margin:0px 10px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="220px"/>
     </td>
     <td width="40%">
-      <h1 class="site-title"><strong>Farid</strong> Rashidi</h1>
+      <div style="float:left">
+        <h1 class="site-title"><strong>Farid</strong> Rashidi</h1>
+      </div>
       {% include social.html %}
-      <br> Office: 2-6300, Building 10, <a href="https://goo.gl/maps/XtuHbcXNd1tEC5us8">NIH</a>
-      <br> Email: frashidi AT iu DOT edu
     </td>
   </tr>
 </table>
