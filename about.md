@@ -37,14 +37,15 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
         <td style="vertical-align:middle; {{ border }}">
           <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
-        <td style="vertical-align:middle; {{ border }}">
+        <!-- <td style="vertical-align:middle; {{ border }}">
           <div data-badge-type="donut" data-doi="{{ item.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
-        </td>
+        </td> -->
         <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
+          <div class="altmetric-embed" data-badge-type="1" data-doi="{{ item.doi }}"></div>
         </td>
       </tr>
     {% endfor %}
