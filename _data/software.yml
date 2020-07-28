@@ -1,0 +1,32 @@
+software:
+  - number: '3'
+    title: 'PhISCS-BnB'
+    subtitle: 'A fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm'
+    url: 'https://github.com/algo-cancer/PhISCS-BnB'
+    id: 'algo-cancer/PhISCS-BnB'
+    cover: 'logo.phiscsbnb.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/algo-cancer/PhISCS-BnB'
+
+  - number: '2'
+    title: 'PhISCS'
+    subtitle: 'A tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional'
+    url: 'https://github.com/sfu-compbio/PhISCS'
+    id: 'sfu-compbio/PhISCS'
+    cover: 'logo.phiscs.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/sfu-compbio/PhISCS'
+
+  - number: '1'
+    title: 'Kaggle Solutions'
+    subtitle: 'A searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
+    url: 'https://farid.one/kaggle-solutions/'
+    id: 'faridrashidi/kaggle-solutions'
+    cover: 'logo.kaggle.png'
+    links:
+      - title: 'Webpage'
+        url: 'https://farid.one/kaggle-solutions/'
+      - title: 'Code'
+        url: 'https://github.com/faridrashidi/kaggle-solutions'
