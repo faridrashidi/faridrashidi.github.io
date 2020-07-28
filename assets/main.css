@@ -32,6 +32,11 @@ img:hover {
     filter: grayscale(100%);
 }
 
+img.altmetric-embed {
+    height: 30px;
+    width: 30px;
+}
+
 figcaption {
     font-size: 14px
 }
