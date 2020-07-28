@@ -9,9 +9,6 @@ title: About
       <img style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px"/>
     </td>
     <td width="40%">
-      <div style="float:left">
-        <h1 class="site-title"><strong>Farid</strong> Rashidi</h1>
-      </div>
       {% include social.html %}
     </td>
   </tr>
@@ -41,7 +38,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
-          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{ item.doi }}" style="display: inline;"></div>
+          <div class="altmetric-embed" data-badge-type="4" data-doi="{{ item.doi }}" style="display: inline;"></div>
         </td>
       </tr>
     {% endfor %}
