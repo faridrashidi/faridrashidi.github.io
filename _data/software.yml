@@ -7,7 +7,7 @@ software:
     links:
       - title: 'Code'
         url: 'https://github.com/algo-cancer/PhISCS-BnB'
-      - title: 'Publications'
+      - title: 'Publication'
         url: 'https://pubmed.ncbi.nlm.nih.gov/32657358'
 
   - number: '2'
@@ -18,7 +18,7 @@ software:
     links:
       - title: 'Code'
         url: 'https://github.com/sfu-compbio/PhISCS'
-      - title: 'Publications'
+      - title: 'Publication'
         url: 'https://pubmed.ncbi.nlm.nih.gov/31628256'
 
   - number: '1'
