@@ -12,9 +12,8 @@ Office: 2-6300, Building 10, [National Institutes of Health (NIH)](https://goo.g
 Email: frashidi AT iu DOT edu
 
 
-<!-- ==================================================================================================== -->
 <br/>
-<h2 id="publications" style="margin-bottom:5px">Publications</h2>
+{% include title-bar.html title="Publications" %}
 <table style="width: 100%;">
     <tbody>
         {% for item in site.data.publications.publications %}
@@ -37,9 +36,8 @@ Email: frashidi AT iu DOT edu
 </table>
 
 
-<!-- ==================================================================================================== -->
 <br/>
-<h2 id="software" style="margin-bottom:5px">Software</h2>
+{% include title-bar.html title="Software" %}
 <table style="width: 100%;">
     <tbody>
         {% for item in site.data.software.software %}
