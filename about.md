@@ -3,10 +3,16 @@ layout: default
 title: About
 ---
 
-<div>
-    <img style="margin:0px 50px 0px 0px; border-radius: 5%; margin-left: auto; margin-right: auto; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048"  width="180px" alt="me"/>   
-    {% include social.html %}
-</div>
+<table style="width:50%; margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>
+      <img style="margin:0px 50px 0px 0px; border-radius: 5%; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="180px"/>
+    </td>
+    <td>
+      {% include social.html %}
+    </td>
+  </tr>
+</table>
 
 I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.cancer.gov) [Center for Cancer Research (CCR)](https://ccr.cancer.gov) working in the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a third-year Ph.D. student studying Computer Science at the [Indiana University Bloomington (IUB)](https://www.indiana.edu). My main research focus is on [Tumor Heterogeneity](https://en.wikipedia.org/wiki/Tumour_heterogeneity) and Cancer Evolution. I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing) problem, supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
@@ -42,9 +48,9 @@ Email: frashidi AT iu DOT edu
     {% endfor %}
   </tbody>
 </table>
-
-
 <br/><br/>
+
+
 {% include title-bar.html title="Software" %}
 <table style="width: 100%;">
   <tbody>
@@ -70,3 +76,4 @@ Email: frashidi AT iu DOT edu
     {% endfor %}
   </tbody>
 </table>
+<br/><br/>
