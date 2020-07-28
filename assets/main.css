@@ -180,12 +180,12 @@ pre > code {
 
 .site-header {
     border-top: 5px solid #424242;
-    min-height: 55px;
+    min-height: 40px;
     position: relative
 }
 
 .site-title {
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 300;
     float: left
 }
