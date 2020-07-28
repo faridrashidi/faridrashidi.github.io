@@ -12,7 +12,7 @@ publications:
 
   - number: '2'
     title: 'PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem'
-    pubmed: ''
+    pubmed: '32657358'
     doi: '10.1093/bioinformatics/btaa464' #10.1101/2020.02.06.938043
     cover: 'cover.phiscsbnb.jpg'
     links:
@@ -31,7 +31,7 @@ publications:
 
   - number: '1'
     title: 'PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
-    pubmed: ''
+    pubmed: '31628256'
     doi: '10.1101/gr.234435.118' #10.1101/376996
     cover: 'cover.phiscs.jpg'
     links:
