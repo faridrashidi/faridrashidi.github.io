@@ -27,7 +27,7 @@ Email: frashidi AT iu DOT edu
           <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
         <td style="vertical-align:middle; {{ border }}">
-          <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ item.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+          <div data-badge-type="donut" data-doi="{{ item.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px;  padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
