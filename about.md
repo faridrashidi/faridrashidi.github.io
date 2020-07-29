@@ -35,7 +35,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
-          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{ item.doi }}" style="display:inline-block; width:30px; height:30px; vertical-align: -10px; margin-right:5px"></div>
+          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{ item.doi }}" style="display:inline-block; width:30px; height:30px; vertical-align: -10px; margin-right:3px"></div>
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
