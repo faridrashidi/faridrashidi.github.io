@@ -6,7 +6,7 @@ title: About
 <table style="width:100%; margin-left: auto; margin-right: auto;">
   <tr>
     <td width="60%">
-      <img style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px" alt="Farid Rashidi"/>
+      <img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px" alt="Farid Rashidi"/>
     </td>
     <td width="40%">
       {% include social.html %}
@@ -31,7 +31,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
       {% endif %}
       <tr>
         <td style="vertical-align:middle; {{ border }}">
-          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
@@ -58,7 +58,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
       {% endif %}
       <tr>
         <td style="text-align:center; {{ border }}">
-          <a href="{{ item.url }}"><img src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
+          <a href="{{ item.url }}"><img draggable="false" src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
