@@ -20,7 +20,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
 
 
 <br/><br/>
-{% include title-bar.html title="My Publications" %}
+{% include title-bar.html title="Publications" %}
 <table style="width: 100%;">
   <tbody>
     {% for item in site.data.publications.publications %}
@@ -47,7 +47,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
 <br/><br/>
 
 
-{% include title-bar.html title="My Software" %}
+{% include title-bar.html title="Software" %}
 <table style="width: 100%;">
   <tbody>
     {% for item in site.data.software.software %}
