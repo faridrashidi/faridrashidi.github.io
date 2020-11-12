@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, dl, figure, .highlight {
     margin-bottom: 5px
 }
 
+p {
+    text-align: justify;
+}
+
 img {
     max-width: 100%;
     vertical-align: middle;
