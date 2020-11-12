@@ -3,6 +3,19 @@ layout: default
 title: About
 ---
 
+<table style="width:100%; margin-left: auto; margin-right: auto;">
+  <tr>
+    <td width="60%">
+      <img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px" alt="Farid Rashidi"/>
+    </td>
+    <td width="40%">
+      {% include social.html %}
+    </td>
+  </tr>
+</table>
+<br/>
+
+
 I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.cancer.gov) working in [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory) under supervision of [Dr. Cenk Sahinalp](https://algo-cancer.github.io). I am also a Ph.D. student studying Computer Science at the [Indiana University Bloomington (IUB)](https://www.indiana.edu) since 2017. My main research focus is on [Tumor Heterogeneity](https://en.wikipedia.org/wiki/Tumour_heterogeneity) and Cancer Evolution using [Single-cell sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing) data. I completed [my Master’s thesis](http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&from=search&&query=alternative%20splicing&count=20&execute=true) at the [Sharif University of Technology](http://www.en.sharif.edu) where I worked on learning of [Alternative Splicing](https://en.wikipedia.org/wiki/Alternative_splicing) problem, jointly supervised by [Dr. Abolfazl Motahari](http://sharif.edu/~motahari/) and [Dr. Hamid Rabiee](http://sharif.edu/~rabiee/). I received my Bachelor’s degree from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in Iran.
 
 
@@ -18,7 +31,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
       {% endif %}
       <tr>
         <td style="vertical-align:middle; {{ border }}">
-          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%"></a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/assets/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
