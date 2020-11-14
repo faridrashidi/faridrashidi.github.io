@@ -6,7 +6,7 @@ title: index
 <h1 class="site-title" style="text-align: right"><strong>Farid</strong> Rashidi</h1>
 
 <center>
-<img draggable="false" style="border-radius: 12%; box-shadow:0 2 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="2px" alt="Farid Rashidi"/>
+<img draggable="false" style="border-radius: 12%; box-shadow:0 2 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="256px" alt="Farid Rashidi"/>
 </br>
 {% include social.html %}
 </center>
