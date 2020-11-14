@@ -31,7 +31,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
       {% endif %}
       <tr>
         <td style="vertical-align:middle; {{ border }}">
-          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
@@ -58,7 +58,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
       {% endif %}
       <tr>
         <td style="text-align:center; {{ border }}">
-          <a href="{{ item.url }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px;"></a>
+          <a href="{{ item.url }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>

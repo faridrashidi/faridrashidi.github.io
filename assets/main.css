@@ -352,11 +352,7 @@ img::-moz-selection {
     color:#fff;
     background:0 0
 }
-
-
-
-
-
+/*============== FARID ==============*/
 a.btn {
     text-decoration: none;
     font-family: Helvetica;
@@ -374,4 +370,10 @@ a.btn {
 a.btn:hover {
     color: #fff !important;
     background: #38608C !important;
+}
+div.altmetric-embed img {
+    max-height:100% !important;
+    max-width:100% !important;
+    width: auto !important;
+    height : auto !important;
 }
