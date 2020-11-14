@@ -352,3 +352,26 @@ img::-moz-selection {
     color:#fff;
     background:0 0
 }
+
+
+
+
+
+a.btn {
+    text-decoration: none;
+    font-family: Helvetica;
+    color: #069 !important;
+    display: inline-block;
+    touch-action: manipulation;
+    border-color: #069 !important;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    line-height: 1.5;
+    font-size: 12px;
+    padding: 0px 5px;
+    transition: all .5s;
+}
+a.btn:hover {
+    color: #fff !important;
+    background: #38608C !important;
+}
