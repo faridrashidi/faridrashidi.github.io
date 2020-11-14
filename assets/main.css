@@ -227,7 +227,7 @@ hr.small {
 }
 .btn,.pager li>a,.pager li>span {
     font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    text-transform:uppercase;
+    /*text-transform:uppercase;*/
     font-weight:800;
     letter-spacing:1px
 }
@@ -355,7 +355,6 @@ img::-moz-selection {
 /*============== FARID ==============*/
 a.btn {
     text-decoration: none;
-    font-family: Helvetica;
     color: #069 !important;
     display: inline-block;
     touch-action: manipulation;

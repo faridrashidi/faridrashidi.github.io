@@ -3,16 +3,11 @@ layout: default
 title: index
 ---
 
-<table style="width:100%; margin-left: auto; margin-right: auto;">
-  <tr>
-    <td width="60%">
-      <img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; float:right" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px" alt="Farid Rashidi"/>
-    </td>
-    <td width="40%">
-      {% include social.html %}
-    </td>
-  </tr>
-</table>
+<h1 class="site-title" style="text-align: right"><strong>Farid</strong> Rashidi</h1>
+
+<img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282; display:block; margin-left: auto; margin-right: auto;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="200px" alt="Farid Rashidi"/>
+
+{% include social.html %}
 <br/>
 
 
