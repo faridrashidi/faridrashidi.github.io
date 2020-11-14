@@ -7,7 +7,7 @@ title: index
 
 <center>
 <img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="220px" alt="Farid Rashidi"/>
-<br>
+<br><br>
 {% include social.html %}
 </center>
 <br/>
@@ -32,7 +32,7 @@ I am a predoctoral fellow at the [National Cancer Institute (NCI)](https://www.c
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <p style="margin: 0">{{ item.title }}</p>
-          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{ item.doi }}" style="display:inline-block; width:30px; height:30px; vertical-align: -10px; margin-right:2px"></div>
+          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{ item.doi }}" style="display:inline-block; width:30px; height:30px; margin-right:2px"></div>
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
