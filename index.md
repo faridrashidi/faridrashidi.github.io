@@ -3,10 +3,10 @@ layout: default
 title: index
 ---
 
-<h1 class="site-title" style="text-align: right"><strong>Farid</strong> Rashidi</h1>
+<h1 class="site-title" style="text-align: left"><strong>Farid</strong> Rashidi</h1>
 
 <center>
-<img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 3%; box-shadow:0 0 5px #828282;" src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=2048" width="220px" alt="Farid Rashidi"/>
+<img draggable="false" style="margin:0px 10px 0px 0px; border-radius: 1%; box-shadow:0 0 5px #828282;" src="/images/me.jpg" height ="220px" alt="Farid Rashidi"/>
 <br><br>
 {% include social.html %}
 </center>
