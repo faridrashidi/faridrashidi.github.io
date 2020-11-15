@@ -368,7 +368,7 @@ a.btn {
 }
 a.btn:hover {
     color: #fff !important;
-    background: #38608C !important;
+    background: #000 !important;
 }
 div.altmetric-embed img {
     max-height:100% !important;
