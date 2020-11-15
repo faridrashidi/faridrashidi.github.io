@@ -2,19 +2,20 @@
 <table style="width: 100%;">
   <tbody>
     {% for item in site.data.software.software %}
-      {% assign border = "" %}
-      <!-- {% if item.number == '1' %}
+      {% if item.number == '1' %}
         {% assign border = "" %}
       {% else %}
         {% assign border = "border-bottom: 1px solid #e9e9e9;" %}
-      {% endif %} -->
+      {% endif %}
       <tr height="150px">
         <td style="text-align:center; {{ border }}">
           <a href="{{ item.url }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <span id="S{{ item.number }}" style="font-size: 10px">S{{ item.number }}</span>
-          <p style="margin: 0">{{ item.title }}</p>
+          <br>
+          <span>{{ item.title }}</span>
+          <br>
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
