@@ -1,6 +1,6 @@
 software:
   - number: '4'
-    title: 'HUNTRESS is a fast heuristic for reconstructing phylogenetic trees of tumor evolution'
+    title: 'HUNTRESS: a fast heuristic for reconstructing phylogenetic trees of tumor evolution'
     url: 'https://github.com/PASSIONLab/HUNTRESS'
     id: 'PASSIONLab/HUNTRESS'
     cover: 'logo.huntress.png'
