@@ -1,4 +1,13 @@
 software:
+  - number: '4'
+    title: 'HUNTRESS is a fast heuristic for reconstructing phylogenetic trees of tumor evolution'
+    url: 'https://github.com/PASSIONLab/HUNTRESS'
+    id: 'PASSIONLab/HUNTRESS'
+    cover: 'logo.huntress.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/PASSIONLab/HUNTRESS'
+
   - number: '3'
     title: 'PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm'
     url: 'https://github.com/algo-cancer/PhISCS-BnB'
