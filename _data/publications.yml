@@ -1,4 +1,17 @@
 publications:
+  
+  - number: '4'
+    title: 'Epigenomic tumor evolution modeling with single-cell methylation data profiling'
+    pubmed: ''
+    doi: '10.1101/2021.03.22.436475'
+    biorxivdoi: '10.1101/2021.03.22.436475'
+    cover: 'cover.biorxiv.jpg'
+    links:
+      - title: 'bioRxiv'
+        url: 'https://doi.org/10.1101/2021.03.22.436475'
+      - title: 'Full text'
+        url: 'https://www.biorxiv.org/content/10.1101/2021.03.22.436475v1.full.pdf'
+  
   - number: '3'
     title: 'Studying the history of tumor evolution from single-cell sequencing data by exploring the space of binary matrices'
     pubmed: ''
