@@ -1,7 +1,7 @@
 software:
   
   - number: '5'
-    title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation using single-cell RNA-seq'
+    title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation from single-cell data'
     url: 'https://github.com/faridrashidi/trisicell'
     id: 'faridrashidi/trisicell'
     cover: 'logo.trisicell.png'
@@ -10,6 +10,8 @@ software:
         url: 'https://trisicell.readthedocs.io'
       - title: 'Code'
         url: 'https://github.com/faridrashidi/trisicell'
+      - title: 'Publication'
+        url: 'https://doi.org/10.1101/2021.03.26.437185'
 
   - number: '4'
     title: 'HUNTRESS: a fast heuristic for reconstructing phylogenetic trees of tumor evolution'
