@@ -13,6 +13,10 @@ publications:
         url: 'https://www.biorxiv.org/content/10.1101/2021.03.26.437185v1.full.pdf'
       - title: 'Poster'
         url: '/documents/poster.trisicell.pdf'
+      - title: 'Webpage'
+        url: 'https://trisicell.readthedocs.io'
+      - title: 'Code'
+        url: 'https://github.com/faridrashidi/trisicell'
   
   - number: '4'
     title: 'Epigenomic tumor evolution modeling with single-cell methylation data profiling'
