@@ -1,7 +1,7 @@
 software:
   
-  - number: '5'
-    title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation from single-cell data'
+  - number: '2'
+    title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation tool using single-cell data'
     url: 'https://github.com/faridrashidi/trisicell'
     id: 'faridrashidi/trisicell'
     cover: 'logo.trisicell.png'
@@ -12,37 +12,6 @@ software:
         url: 'https://github.com/faridrashidi/trisicell'
       - title: 'Publication'
         url: 'https://doi.org/10.1101/2021.03.26.437185'
-
-  - number: '4'
-    title: 'HUNTRESS: a fast heuristic for reconstructing phylogenetic trees of tumor evolution'
-    url: 'https://github.com/PASSIONLab/HUNTRESS'
-    id: 'PASSIONLab/HUNTRESS'
-    cover: 'logo.huntress.png'
-    links:
-      - title: 'Code'
-        url: 'https://github.com/PASSIONLab/HUNTRESS'
-
-  - number: '3'
-    title: 'PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-cell data via branch and bound algorithm'
-    url: 'https://github.com/algo-cancer/PhISCS-BnB'
-    id: 'algo-cancer/PhISCS-BnB'
-    cover: 'logo.phiscsbnb.png'
-    links:
-      - title: 'Code'
-        url: 'https://github.com/algo-cancer/PhISCS-BnB'
-      - title: 'Publication'
-        url: 'https://pubmed.ncbi.nlm.nih.gov/32657358'
-
-  - number: '2'
-    title: 'PhISCS: a tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data, with later being an optional'
-    url: 'https://github.com/sfu-compbio/PhISCS'
-    id: 'sfu-compbio/PhISCS'
-    cover: 'logo.phiscs.png'
-    links:
-      - title: 'Code'
-        url: 'https://github.com/sfu-compbio/PhISCS'
-      - title: 'Publication'
-        url: 'https://pubmed.ncbi.nlm.nih.gov/31628256'
 
   - number: '1'
     title: 'Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
