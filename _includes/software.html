@@ -18,7 +18,7 @@
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
-          <a class="github-button" href="https://github.com/{{ item.id }}" data-show-count="true" aria-label="Star {{ item.id }} on GitHub">Star</a> <a class="github-button" href="https://github.com/{{ item.id }}/fork" data-show-count="true" aria-label="Fork {{ item.id }} on GitHub">Fork</a>
+          <a class="github-button" href="https://github.com/{{ item.id }}" data-icon="octicon-star" data-show-count="true" aria-label="Star {{ item.id }} on GitHub">Star</a> <a class="github-button" href="https://github.com/{{ item.id }}/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork {{ item.id }} on GitHub">Fork</a>
         </td>
       </tr>
     {% endfor %}
