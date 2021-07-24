@@ -1,7 +1,7 @@
 publications:
 
   - number: '5'
-    title: 'Profiles of expressed mutations in single cells reveal patterns of tumor evolution and therapeutic impact of intratumor heterogeneity'
+    title: 'Profiles of expressed mutations in single cells reveal subclonal expansion patterns and therapeutic impact of intratumor heterogeneity'
     pubmed: ''
     doi: '10.1101/2021.03.26.437185'
     biorxivdoi: '10.1101/2021.03.26.437185'
@@ -10,7 +10,7 @@ publications:
       - title: 'bioRxiv'
         url: 'https://doi.org/10.1101/2021.03.26.437185'
       - title: 'Full text'
-        url: 'https://www.biorxiv.org/content/10.1101/2021.03.26.437185v1.full.pdf'
+        url: 'https://www.biorxiv.org/content/10.1101/2021.03.26.437185v2.full.pdf'
       - title: 'Poster'
         url: '/documents/poster.trisicell.pdf'
       - title: 'Webpage'
@@ -31,16 +31,16 @@ publications:
         url: 'https://www.biorxiv.org/content/10.1101/2021.03.22.436475v1.full.pdf'
   
   - number: '3'
-    title: 'Studying the history of tumor evolution from single-cell sequencing data by exploring the space of binary matrices'
-    pubmed: ''
-    doi: '10.1101/2020.07.15.204081'
+    title: 'Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices'
+    pubmed: '34297621'
+    doi: '10.1089/cmb.2020.0595'
     biorxivdoi: '10.1101/2020.07.15.204081'
-    cover: 'cover.biorxiv.jpg'
+    cover: 'cover.binaryreview.jpg'
     links:
-      - title: 'bioRxiv'
-        url: 'https://doi.org/10.1101/2020.07.15.204081'
+      - title: 'Journal of Computational Biology'
+        url: 'https://www.liebertpub.com/doi/10.1089/cmb.2020.0595'
       - title: 'Full text'
-        url: 'https://www.biorxiv.org/content/10.1101/2020.07.15.204081v1.full.pdf'
+        url: 'https://www.liebertpub.com/doi/pdf/10.1089/cmb.2020.0595'
 
   - number: '2'
     title: 'PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem'
