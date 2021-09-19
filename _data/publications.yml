@@ -17,6 +17,8 @@ publications:
         url: 'https://trisicell.readthedocs.io'
       - title: 'Code'
         url: 'https://github.com/faridrashidi/trisicell'
+      - title: 'Presentation'
+        url: 'https://youtu.be/q83JPB6qhTE'
   
   - number: '4'
     title: 'Epigenomic tumor evolution modeling with single-cell methylation data profiling'
