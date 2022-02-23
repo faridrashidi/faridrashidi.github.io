@@ -1,6 +1,6 @@
 publications:
 
-  - number: '5'
+  - number: '7'
     title: 'Profiles of expressed mutations in single cells reveal subclonal expansion patterns and therapeutic impact of intratumor heterogeneity'
     pubmed: ''
     doi: '10.1101/2021.03.26.437185'
@@ -19,8 +19,8 @@ publications:
         url: 'https://github.com/faridrashidi/trisicell'
       - title: 'Presentation'
         url: 'https://youtu.be/q83JPB6qhTE'
-  
-  - number: '4'
+
+  - number: '6'
     title: 'Epigenomic tumor evolution modeling with single-cell methylation data profiling'
     pubmed: ''
     doi: '10.1101/2021.03.22.436475'
@@ -31,8 +31,8 @@ publications:
         url: 'https://doi.org/10.1101/2021.03.22.436475'
       - title: 'Full text'
         url: 'https://www.biorxiv.org/content/10.1101/2021.03.22.436475v1.full.pdf'
-  
-  - number: '3'
+
+  - number: '5'
     title: 'Review on Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices'
     pubmed: '34297621'
     doi: '10.1089/cmb.2020.0595'
@@ -44,7 +44,21 @@ publications:
       - title: 'Full text'
         url: 'https://www.liebertpub.com/doi/pdf/10.1089/cmb.2020.0595'
 
-  - number: '2'
+  - number: '4'
+    title: 'A Transcriptionally Distinct Subpopulation of Healthy Acinar Cells Exhibit Features of Pancreatic Progenitors and PDAC'
+    pubmed: '34049974'
+    doi: '10.1158/0008-5472.CAN-21-0427'
+    biorxivdoi: ''
+    cover: 'cover.edgecell.jpg'
+    links:
+      - title: 'Cancer Research'
+        url: 'https://doi.org/10.1158/0008-5472.CAN-21-0427'
+      - title: 'Full text'
+        url: 'https://aacrjournals.org/cancerres/article-pdf/81/15/3958/2978874/3958.pdf'
+      - title: 'Supplementary'
+        url: 'https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/15/10.1158_0008-5472.can-21-0427/1/00085472can210427-sup-260380_2_supp_7097408_qslns8.docx?Expires=1648084213&Signature=cNsqVXUCTnG9PDX9VFl-ENPF0cXHuCXBDOpEIqLTD5AntbXZCIiN3bXrk33nYCmL0dsJf6hzEyPjr204la7Wm5jF91W6IoAblvxVu7tuSl1Fud0K~BUmbNE3CRM-DkQKhewHJNUfOjwrJxXMyPDq9UUp6zONGsCu-xtkQqt9mAlH5li~qZT7o6vyeEQ7z9zMvOqANh~1IGgINQJHuiccpN2C5qyMWFvWom-f3or57o6uhZykc2XVGLrwPkO3VoOyXU-5aCthDWdrp~j1UCJdI1vU3BSsKLLeXMWIm35TovcKCdWZ5CGQItbSKCa2liiXbSDmJMeZWkcfgm7EM-8LRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
+
+  - number: '3'
     title: 'PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem'
     pubmed: '32657358'
     doi: '10.1093/bioinformatics/btaa464'
@@ -63,6 +77,20 @@ publications:
         url: 'https://github.com/algo-cancer/PhISCS-BnB'
       - title: 'Presentation'
         url: 'https://youtu.be/bZdGkjJBtJY'
+
+  - number: '2'
+    title: 'Clonal Evolution and Heterogeneity of Osimertinib Acquired Resistance Mechanisms in EGFR Mutant Lung Cancer'
+    pubmed: '32483558'
+    doi: '10.1016/j.xcrm.2020.100007'
+    biorxivdoi: ''
+    cover: 'cover.osimertinib.jpg'
+    links:
+      - title: 'Cell Reports Medicine'
+        url: 'https://doi.org/10.1016/j.xcrm.2020.100007'
+      - title: 'Full text'
+        url: 'https://www.cell.com/action/showPdf?pii=S2666-3791%2820%2930007-0'
+      - title: 'Supplementary'
+        url: 'https://www.cell.com/cms/10.1016/j.xcrm.2020.100007/attachment/7500f239-9397-419b-ad68-5b6cd40d82c8/mmc1.pdf'
 
   - number: '1'
     title: 'PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
