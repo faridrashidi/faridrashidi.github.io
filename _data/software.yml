@@ -1,6 +1,17 @@
 software:
+
+  - number: '6'
+    title: 'scPhylo-tools: a python toolkit for single-cell tumor phylogenetic analysis'
+    url: 'https://github.com/faridrashidi/scphylo-tools'
+    id: 'faridrashidi/scphylo-tools'
+    cover: 'logo.scphylotools.png'
+    links:
+      - title: 'Webpage'
+        url: 'https://scphylo-tools.readthedocs.io'
+      - title: 'Code'
+        url: 'https://github.com/faridrashidi/scphylo-tools'
   
-  - number: '2'
+  - number: '5'
     title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation tool using single-cell data'
     url: 'https://github.com/faridrashidi/trisicell'
     id: 'faridrashidi/trisicell'
@@ -12,6 +23,37 @@ software:
         url: 'https://github.com/faridrashidi/trisicell'
       - title: 'Publication'
         url: 'https://doi.org/10.1101/2021.03.26.437185'
+
+  - number: '4'
+    title: 'PhISCS: a tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
+    url: 'https://github.com/sfu-compbio/PhISCS'
+    id: 'sfu-compbio/PhISCS'
+    cover: 'logo.phiscs.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/sfu-compbio/PhISCS'
+      - title: 'Publication'
+        url: 'http://doi.org/10.1101/gr.234435.118'
+
+  - number: '3'
+    title: 'PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-ceqll data via branch and bound algorithm'
+    url: 'https://github.com/algo-cancer/PhISCS-BnB'
+    id: 'algo-cancer/PhISCS-BnB'
+    cover: 'logo.phiscsbnb.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/algo-cancer/PhISCS-BnB'
+      - title: 'Publication'
+        url: 'https://doi.org/10.1093/bioinformatics/btaa464'
+
+  - number: '2'
+    title: 'HUNTRESS: a provably fast intratumor heterogeneity inference from single-cell sequencing data'
+    url: 'https://github.com/PASSIONLab/HUNTRESS'
+    id: 'PASSIONLab/HUNTRESS'
+    cover: 'logo.huntress.png'
+    links:
+      - title: 'Code'
+        url: 'https://github.com/PASSIONLab/HUNTRESS'
 
   - number: '1'
     title: 'Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
