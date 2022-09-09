@@ -1,6 +1,6 @@
 publications:
 
-  - number: '7'
+  - number: '8'
     title: 'Profiles of expressed mutations in single cells reveal subclonal expansion patterns and therapeutic impact of intratumor heterogeneity'
     pubmed: ''
     doi: '10.1101/2021.03.26.437185'
@@ -20,7 +20,7 @@ publications:
       - title: 'Presentation'
         url: 'https://youtu.be/q83JPB6qhTE'
 
-  - number: '6'
+  - number: '7'
     title: 'Epigenomic tumor evolution modeling with single-cell methylation data profiling'
     pubmed: ''
     doi: '10.1101/2021.03.22.436475'
@@ -31,6 +31,22 @@ publications:
         url: 'https://doi.org/10.1101/2021.03.22.436475'
       - title: 'Full text'
         url: 'https://www.biorxiv.org/content/10.1101/2021.03.22.436475v1.full.pdf'
+
+  - number: '6'
+    title: 'Fast intratumor heterogeneity inference from single-cell sequencing data'
+    pubmed: '?'
+    doi: '10.1038/s43588-022-00298-x'
+    biorxivdoi: ''
+    cover: 'cover.huntress.jpg'
+    links:
+      - title: 'Nature Computational Science'
+        url: 'https://www.nature.com/articles/s43588-022-00298-x'
+      - title: 'Full text'
+        url: ''
+      - title: 'Supplementary'
+        url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs43588-022-00298-x/MediaObjects/43588_2022_298_MOESM1_ESM.pdf'
+      - title: 'Code'
+        url: 'https://github.com/PASSIONLab/HUNTRESS'
 
   - number: '5'
     title: 'Review on Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices'
@@ -72,7 +88,7 @@ publications:
       - title: 'Full text'
         url: 'https://academic.oup.com/bioinformatics/article-pdf/36/Supplement_1/i169/33488705/btaa464.pdf'
       - title: 'Supplementary'
-        url: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1605921518&Signature=aKL9CN1L6-Cxru4E~yrLm8VEUU2mu9FvVXyy0s5XKRb85OvVm15hbs0vliG3WuWqORAPiMdRosVCajr~aacqjEiCn6lElUwejyitmUf9QppcXoRSZvD~26Bc1C3XyhmCGOez5PSsj1Y0ujXuoCyFr9RAuwncKIOeZJ1JaQb6t8ADSt~lmmuAOPwaqMMrptiIV3ePhTU5IvJnyMKeVj1OuVIJxVFZ5vTb9KPrNNKqIIHBEDZ85y2l-I97moxVydC8fdXRQo9-vtPH-wc9P0Npb8KnIxPEKINYmAMkObl19EtwvYmXTl6lmsrcWlKHdXHXsvY7iBDlFa2okMbydT6MiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
+        url: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1664233093&Signature=OicXpa4QKK2KOdW4xYDIEkxiB8-2g4NNEfus5XANHmLehNuuy-i7naCqfYQRtPes2ZUjuQHP5NBJ6t8zgBlvug~GjPEyXx6wPghAXTF5bufw6a5bwsRVKv-NpqGnKinBm1DnWSIsmNHDTkBkZ~pPTWOXxqKyAd6mR1jajyjtF8bENvH9oa58vWFMnIFzLX75JZ5qt77cf5BNocbJ6MTgJWg62mPbxHgaKLTB7BamFLBTJk1dBCCe3JL9rtU1QqKGcqnkxdPM6dM4JoVHiSeNNxKB~8NseCxnnwSo9uUNooueBwq~jon7SJHxCtDTgQBWyT5PizEGmoz~Zrl6oouhJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
       - title: 'Code'
         url: 'https://github.com/algo-cancer/PhISCS-BnB'
       - title: 'Presentation'
