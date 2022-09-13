@@ -34,7 +34,7 @@ publications:
 
   - number: '6'
     title: 'Fast intratumor heterogeneity inference from single-cell sequencing data'
-    pubmed: '?'
+    pubmed: ''
     doi: '10.1038/s43588-022-00298-x'
     biorxivdoi: ''
     cover: 'cover.huntress.jpg'
@@ -72,7 +72,7 @@ publications:
       - title: 'Full text'
         url: 'https://aacrjournals.org/cancerres/article-pdf/81/15/3958/2978874/3958.pdf'
       - title: 'Supplementary'
-        url: 'https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/15/10.1158_0008-5472.can-21-0427/1/00085472can210427-sup-260380_2_supp_7097408_qslns8.docx?Expires=1648084213&Signature=cNsqVXUCTnG9PDX9VFl-ENPF0cXHuCXBDOpEIqLTD5AntbXZCIiN3bXrk33nYCmL0dsJf6hzEyPjr204la7Wm5jF91W6IoAblvxVu7tuSl1Fud0K~BUmbNE3CRM-DkQKhewHJNUfOjwrJxXMyPDq9UUp6zONGsCu-xtkQqt9mAlH5li~qZT7o6vyeEQ7z9zMvOqANh~1IGgINQJHuiccpN2C5qyMWFvWom-f3or57o6uhZykc2XVGLrwPkO3VoOyXU-5aCthDWdrp~j1UCJdI1vU3BSsKLLeXMWIm35TovcKCdWZ5CGQItbSKCa2liiXbSDmJMeZWkcfgm7EM-8LRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
+        url: 'https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/15/10.1158_0008-5472.can-21-0427/3/00085472can210427-sup-260380_2_supp_7097408_qslns8.docx?Expires=1665743392&Signature=qCMTB~EKsEwmO-yhb7aIHCftCPhVWo1L1HvGy-jIFxHcO3OMubCnXpqQYXXL2UHBE-FSGY6~MlDe2fzLJCX-RRwLAJs4er9EQZuN11absfT0DQf4qZUdyAnnvb7cUfGhJ9QC~Z9Em2wi8eN9l9ffGGA-xVj0nEpXc4ybwPBPZDMFqmttrLN5do5TEqyzF5LE4NqITa7QIWIoECzAHAiV178CotmwnahXsqFYL04boxQkIeYMlnRYYh2SdgsJzCf5zcgBg0oA7WN3P2frZqEdfgRKqRRaCQoALMsKfoBjxSm432-3OI2HUP9c7Ix~55TxHgs2bz2AQXtIcPHLAon0Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
 
   - number: '3'
     title: 'PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem'
