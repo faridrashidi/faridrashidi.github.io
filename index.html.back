@@ -1,24 +1,3 @@
----
-layout: default
----
-
-<!-- <h1 class="site-title" style="text-align: left">Farid Rashidi</h1> -->
-
-<center>
-<img draggable="false" style="margin:10px 0px 0px 0px; border-radius: 1%; box-shadow:0 0 5px #828282; max-width: 100%;" src="/images/me.jpg" alt="Farid Rashidi"/>
-<br><br>
-{% include social.html %}
-</center>
-<br>
-
-<p>
-  I am a data scientist and researcher working in the field of computational oncology. Currently, I am a fellow at the National Cancer Institute doing research on cancer vaccine in the Laboratory of Human Carcinogenesis under the supervision of Xin Wei Wang. I received my Ph.D. from Indiana University in computer science where I developed computational tools to infer tumor evolution and heterogeneity using single-cell sequencing data. I completed <a href="https://www.proquest.com/docview/2701106234/9DF7BC9A827840E5PQ">my Ph.D. thesis</a> as a predoctoral visiting fellow at the National Institutes of Health in Cancer Data Science Laboratory under the supervision of Cenk Sahinalp. I accomplished <a href="http://library.sharif.ir/parvan/resource/444343/یادگیری-پیرایش-دگرسان-از-داده-های-توالی-یابی-آر--ان--ای/&amp;from=search&amp;&amp;query=alternative%20splicing&amp;count=20&amp;execute=true">my Master's thesis</a> at the Sharif University of Technology where I worked on the learning of alternative splicing problems, jointly supervised by Abolfazl Motahari and Hamid Rabiee. I completed <a href="http://digitallib.aut.ac.ir/DL/Search/default.aspx?term=فرید+رشیدی+مهرابادی">my Bachelor's thesis</a> at the Amirkabir University of Technology in Iran. My research interests are in developing novel computational methods for investigating high-throughput genomics and single-cell sequencing data to understand biological processes, with a particular interest in cancer.
-</p>
-<br><br>
-
-<h2>Publications:</h2>
-<br>
-{% include publications.html %}
-
-<h2>Software:</h2>
-{% include software.html %}
+<head>
+    <meta http-equiv="refresh" content="0; URL=https://farid.one/kaggle-solutions">
+</head>
