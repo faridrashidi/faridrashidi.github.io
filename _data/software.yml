@@ -54,6 +54,8 @@ software:
     links:
       - title: 'Code'
         url: 'https://github.com/PASSIONLab/HUNTRESS'
+      - title: 'Publication'
+        url: 'https://doi.org/10.1038/s43588-022-00298-x'
 
   - number: '1'
     title: 'Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
