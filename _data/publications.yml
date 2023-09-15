@@ -22,13 +22,15 @@ publications:
 
   - number: '7'
     title: 'Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models'
-    pubmed: ''
+    pubmed: '37316351'
     doi: '10.1101/gr.277608.122'
     biorxivdoi: '10.1101/2021.03.22.436475'
     cover: 'cover.sgootr.jpg'
     links:
       - title: 'Genome Research'
         url: 'http://doi.org/10.1101/gr.277608.122'
+      - title: 'RECOMB 2023 Proceedings'
+        url: 'http://recomb2023.bilkent.edu.tr/program.html'
       - title: 'Full text'
         url: 'https://genome.cshlp.org/content/early/2023/08/11/gr.277608.122.full.pdf'
       - title: 'Supplementary'
