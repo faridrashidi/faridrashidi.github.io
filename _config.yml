@@ -8,18 +8,15 @@ orcid_username: 0000-0003-4103-4904
 scholar_username: ed4YbAIAAAAJ
 comments: true
 
-# Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-# URL settings
 url: "https://farid.one"
 baseurl: ""
 permalink: /:title/
 
-# Integrations
 disqus_short_name: faridrashidi
 disqus_show_comment_count: true
 google_analytics_tracking_id: UA-122994885-1
