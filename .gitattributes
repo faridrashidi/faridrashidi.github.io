@@ -2,6 +2,8 @@
 *.cfg linguist-detectable=false
 *.cpp linguist-detectable=false
 *.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.sass linguist-detectable=false
 *.gitignore linguist-detectable=false
 *.h linguist-detectable=false
 *.js linguist-detectable=false
