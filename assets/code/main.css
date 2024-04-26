@@ -1,0 +1,23 @@
+a.btn {
+    text-decoration: none;
+    color: #0645AD !important;
+    display: inline-block;
+    touch-action: manipulation;
+    border-color: #0645AD !important;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    line-height: 1.5;
+    font-size: 12px;
+    padding: 0px 5px;
+    transition: all .5s;
+}
+a.btn:hover {
+    color: #fff !important;
+    background: #0085A1 !important;
+}
+div.altmetric-embed img {
+    max-height:100% !important;
+    max-width:100% !important;
+    width: auto !important;
+    height : auto !important;
+}

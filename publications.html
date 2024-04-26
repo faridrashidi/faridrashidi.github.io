@@ -1,6 +1,8 @@
-<!-- {% include title-bar.html title="Publications" %} -->
-<!-- Below is my first/co-first author publications. The full list is available on <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}">Google Scholar</a> and on <a href="https://orcid.org/{{ site.orcid_username }}">ORCID</a>. -->
-<!-- <br> -->
+---
+layout: page
+title: Publications
+---
+
 <table style="width: 100%;">
   <tbody>
     {% for item in site.data.publications.publications %}
@@ -11,7 +13,7 @@
       {% endif %}
       <tr height="130px">
         <td style="vertical-align:middle; {{ border }}">
-          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 2%; border: 1px solid #000000; box-shadow:0 0 2px #828282;"></a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{ item.pubmed }}"><img draggable="false" src="/assets/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 2%; border: 1px solid #000000; box-shadow:0 0 2px #828282;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <span id="P{{ item.number }}" style="font-size: 10px">P{{ item.number }}</span>
@@ -26,5 +28,4 @@
     {% endfor %}
   </tbody>
 </table>
-<!-- <span style="font-size: 10px; font-weight: normal; margin-left: 2px;">first/co-first authors</span> -->
 <br><br>
