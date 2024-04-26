@@ -1,35 +1,18 @@
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="navbar-header page-scroll">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            Menu <i class="fa fa-bars"></i>
-          </button>
-          <a class="navbar-brand" href="/" style="font-weight: bold; font-size: 120%"> Farid Rashidi </a>
-        </div>
-        <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li>
-              <a href="/publications/">Publications</a>
-            </li>
-            <li>
-              <a href="/software/">Software</a>
-            </li>
-          </ul>
-        </div> -->
-      </div>
-    </div>
-  </div>
-</nav>
-<header class="intro-header" style="background-image: url('/images/white.jpg'); margin: 0px">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
+{% if page.title == "Home"
+   or page.title == "Publications"
+   or page.title == "Software"
+%}{% assign showHeader = true %}{% endif %}
+
+{% if showHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        <a class="link" href="{{ site.url }}">
+            <img class="selfie" alt="{{ site.title }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+        </a>
+        <h1 class="title">{{ site.title }}</h1>
+        <h2 class="description">{{ site.bio }}</h2>
+
+        {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% include nav.html %}

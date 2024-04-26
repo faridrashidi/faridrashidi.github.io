@@ -1,14 +1,13 @@
-<hr>
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <p>
-          © 2019-2024 Farid Rashidi
-          <!-- <br>
-          <span style="font-size: 10px; font-weight: normal;"><i class="fa fa-refresh"></i> Last updated: {{site.last_updated}}</span> -->
-        </p>
-      </div>
-    </div>
-  </div>
+<footer class="footer-main">
+    {{ site.title }} © 2019-{{ site.time | date: '%Y' }}
+
+    <!-- <a class="link" href="{{ site.url }}/feed.xml" target="_blank" alt="anchor link to rss feed" aria-label="anchor link to rss feed">
+        <i class="fa-solid fa-rss"></i>
+    </a> -->
+
+    <!-- <p class="extra">
+        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a>
+        by
+        <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
+    </p> -->
 </footer>

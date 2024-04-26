@@ -1,4 +1,8 @@
-<!-- {% include title-bar.html title="Software" %} -->
+---
+layout: page
+title: Software
+---
+
 <table style="width: 100%;">
   <tbody>
     {% for item in site.data.software.software %}
@@ -9,7 +13,7 @@
       {% endif %}
       <tr height="120px">
         <td style="text-align:center; {{ border }}">
-          <a href="{{ item.url }}"><img draggable="false" src="/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%;"></a>
+          <a href="{{ item.url }}"><img draggable="false" src="/assets/images/{{ item.cover }}" style="max-height:100px; max-width:135px; border-radius: 3%;"></a>
         </td>
         <td style="width:100%; vertical-align:middle; padding-left:15px; padding-bottom:10px; {{ border }}">
           <span id="S{{ item.number }}" style="font-size: 10px">S{{ item.number }}</span>

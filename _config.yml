@@ -1,22 +1,43 @@
-last_updated: February 23, 2022
 title: Farid Rashidi
-twitter_username: farid_rashidi
-github_username: faridrashidi
-youtube_username: faridrsh
-linkedin_username: faridrashidi
-orcid_username: 0000-0003-4103-4904
-scholar_username: ed4YbAIAAAAJ
-comments: true
-
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
+title-full: Farid Rashidi Mehrabadi
+bio: Computational Oncologist and Data Scientist
+description: Farid Rashidi | فرید رشیدی
+external-image: true
+picture: https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=512
+dark-theme: auto
 url: "https://farid.one"
-baseurl: ""
 permalink: /:title/
+analytics-google: UA-122994885-1
 
-disqus_short_name: faridrashidi
-disqus_show_comment_count: true
-google_analytics_tracking_id: UA-122994885-1
+twitter: farid_rashidi
+github: faridrashidi
+# youtube: faridrsh
+linkedin: faridrashidi
+# orcid: 0000-0003-4103-4904
+scholar: ed4YbAIAAAAJ
+# facebook: farid.rashidi
+# instagram: farid.rashidi
+# email: myemail@gmail.com
+
+publications: false
+software: false
+
+width: normal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
+exclude:
+  [
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "vendor",
+  ]
