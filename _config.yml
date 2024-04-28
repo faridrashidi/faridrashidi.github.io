@@ -22,7 +22,7 @@ scholar: ed4YbAIAAAAJ
 publications: true
 software: true
 
-width: normal
+width: large
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
