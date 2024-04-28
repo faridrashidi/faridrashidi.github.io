@@ -19,8 +19,8 @@ scholar: ed4YbAIAAAAJ
 # instagram: farid.rashidi
 # email: myemail@gmail.com
 
-publications: false
-software: false
+publications: true
+software: true
 
 width: normal
 plugins:
