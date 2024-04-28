@@ -20,6 +20,20 @@ publications:
   #     - title: 'Presentation'
   #       url: 'https://youtu.be/q83JPB6qhTE'
 
+  - number: '8'
+    title: 'Genome-wide profiling of transcription factor activity in primary liver cancer using single-cell ATAC sequencing'
+    pubmed: '37980571'
+    doi: '10.1016/j.celrep.2023.113446'
+    biorxivdoi: ''
+    cover: 'cover.atacseq.jpg'
+    links:
+      - title: 'Cell Reports'
+        url: 'http://doi.org/10.1016/j.celrep.2023.113446'
+      - title: 'Full text'
+        url: 'https://www.cell.com/action/showPdf?pii=S2211-1247%2823%2901458-4'
+      - title: 'Supplementary'
+        url: 'https://www.cell.com/cms/10.1016/j.celrep.2023.113446/attachment/040a71ad-c408-4b80-acc4-18599889bd69/mmc1.pdf'
+
   - number: '7'
     title: 'Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models'
     pubmed: '37316351'
