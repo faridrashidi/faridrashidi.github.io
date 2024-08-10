@@ -23,7 +23,9 @@ title: Software
           {% for btn in item.links %}
             <a class="btn" href="{{ btn.url }}">{{ btn.title }}</a>
           {% endfor %}
-          <a class="github-button" href="https://github.com/{{ item.id }}" data-icon="octicon-star" data-show-count="true" aria-label="Star {{ item.id }} on GitHub">Star</a> <a class="github-button" href="https://github.com/{{ item.id }}/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork {{ item.id }} on GitHub">Fork</a>
+          {% if item.id != '' %}
+            <a class="github-button" href="https://github.com/{{ item.id }}" data-icon="octicon-star" data-show-count="true" aria-label="Star {{ item.id }} on GitHub">Star</a> <a class="github-button" href="https://github.com/{{ item.id }}/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork {{ item.id }} on GitHub">Fork</a>
+          {% endif %}
         </td>
       </tr>
     {% endfor %}

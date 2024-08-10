@@ -23,7 +23,7 @@ scholar: ed4YbAIAAAAJ
 
 publications: true
 software: true
-sport: false
+sport: true
 
 width: large
 plugins:
