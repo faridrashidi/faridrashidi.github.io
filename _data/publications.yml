@@ -1,6 +1,6 @@
 publications:
 
-  # - number: '8'
+  # - number: '10'
   #   title: 'Profiles of expressed mutations in single cells reveal subclonal expansion patterns and therapeutic impact of intratumor heterogeneity'
   #   pubmed: ''
   #   doi: '10.1101/2021.03.26.437185'
@@ -19,6 +19,20 @@ publications:
   #       url: 'https://github.com/faridrashidi/trisicell'
   #     - title: 'Presentation'
   #       url: 'https://youtu.be/q83JPB6qhTE'
+
+  - number: '9'
+    title: 'Stochastic modeling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones'
+    pubmed: '39701099'
+    doi: '10.1016/j.cels.2024.11.013'
+    biorxivdoi: '10.1101/2024.04.17.588869'
+    cover: 'cover.stochastic.jpg'
+    links:
+      - title: 'Cell Systems'
+        url: 'http://doi.org/10.1016/j.cels.2024.11.013'
+      - title: 'Full text'
+        url: 'https://www.cell.com/action/showPdf?pii=S2405-4712%2824%2900349-1'
+      - title: 'Supplementary'
+        url: 'https://www.cell.com/cms/10.1016/j.cels.2024.11.013/attachment/9af825e9-8a35-4c21-853b-e77e31e05f93/mmc1.pdf'
 
   - number: '8'
     title: 'Genome-wide profiling of transcription factor activity in primary liver cancer using single-cell ATAC sequencing'
