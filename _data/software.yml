@@ -4,7 +4,7 @@ software:
     title: 'scPhylo-tools: a python toolkit for single-cell tumor phylogenetic analysis'
     url: 'https://github.com/faridrashidi/scphylo-tools'
     id: 'faridrashidi/scphylo-tools'
-    cover: 'logo.scphylotools.png'
+    cover: 'logo.scphylotools.webp'
     links:
       - title: 'Webpage'
         url: 'https://scphylo-tools.readthedocs.io'
@@ -15,7 +15,7 @@ software:
     title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation tool using single-cell data'
     url: 'https://github.com/faridrashidi/trisicell'
     id: 'faridrashidi/trisicell'
-    cover: 'logo.trisicell.png'
+    cover: 'logo.trisicell.webp'
     links:
       - title: 'Webpage'
         url: 'https://trisicell.readthedocs.io'
@@ -28,7 +28,7 @@ software:
     title: 'PhISCS: a tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
     url: 'https://github.com/sfu-compbio/PhISCS'
     id: 'sfu-compbio/PhISCS'
-    cover: 'logo.phiscs.png'
+    cover: 'logo.phiscs.webp'
     links:
       - title: 'Code'
         url: 'https://github.com/sfu-compbio/PhISCS'
@@ -39,7 +39,7 @@ software:
     title: 'PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-ceqll data via branch and bound algorithm'
     url: 'https://github.com/algo-cancer/PhISCS-BnB'
     id: 'algo-cancer/PhISCS-BnB'
-    cover: 'logo.phiscsbnb.png'
+    cover: 'logo.phiscsbnb.webp'
     links:
       - title: 'Code'
         url: 'https://github.com/algo-cancer/PhISCS-BnB'
@@ -50,7 +50,7 @@ software:
     title: 'HUNTRESS: a provably fast intratumor heterogeneity inference from single-cell sequencing data'
     url: 'https://github.com/PASSIONLab/HUNTRESS'
     id: 'PASSIONLab/HUNTRESS'
-    cover: 'logo.huntress.png'
+    cover: 'logo.huntress.webp'
     links:
       - title: 'Code'
         url: 'https://github.com/PASSIONLab/HUNTRESS'
@@ -61,7 +61,7 @@ software:
     title: 'Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
     url: 'https://farid.one/kaggle-solutions/'
     id: 'faridrashidi/kaggle-solutions'
-    cover: 'logo.kaggle.png'
+    cover: 'logo.kaggle.webp'
     links:
       - title: 'Webpage'
         url: 'https://farid.one/kaggle-solutions/'
@@ -72,7 +72,7 @@ software:
     title: 'MafiaDealer: a web application for dealing and managing of Mafia party game'
     url: 'https://farid.one/mafia/'
     id: ''
-    cover: 'logo.mafiadealer.png'
+    cover: 'logo.mafiadealer.webp'
     links:
       - title: 'Webpage'
         url: 'https://farid.one/mafia/'
