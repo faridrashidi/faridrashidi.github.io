@@ -20,6 +20,20 @@ publications:
   #     - title: 'Presentation'
   #       url: 'https://youtu.be/q83JPB6qhTE'
 
+  - number: '10'
+    title: 'Beneficial infections of the enterovirus genus in patients with liver cancer'
+    pubmed: '40345802'
+    doi: '10.1136/gutjnl-2024-334681'
+    biorxivdoi: ''
+    cover: 'cover.beneficial.jpg'
+    links:
+      - title: 'Gut'
+        url: 'http://doi.org/10.1136/gutjnl-2024-334681'
+      - title: 'Full text'
+        url: 'https://gut.bmj.com/content/74/10/1667'
+      - title: 'Supplementary'
+        url: 'https://gut.bmj.com/content/74/10/1667'
+
   - number: '9'
     title: 'Stochastic modeling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones'
     pubmed: '39701099'
