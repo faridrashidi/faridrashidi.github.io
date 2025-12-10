@@ -1,0 +1,35 @@
+---
+layout: page
+title: Sport
+permalink: /sport/
+---
+
+<br /><br />
+<div
+  style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px"
+>
+  {% for item in site.data.sport.sport %} {% if item.fullwidth %}
+  <div
+    style="
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      grid-column: 1 / -1;
+    "
+  >
+    <img
+      src="/assets/images/{{ item.image }}"
+      alt="{{ item.alt }}"
+      style="max-width: 80%; height: auto"
+    />
+  </div>
+  {% else %}
+  <div style="display: flex; justify-content: center; align-items: center">
+    <img
+      src="/assets/images/{{ item.image }}"
+      alt="{{ item.alt }}"
+      style="max-width: 100%; height: auto"
+    />
+  </div>
+  {% endif %} {% endfor %}
+</div>

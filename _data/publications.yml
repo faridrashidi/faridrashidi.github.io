@@ -1,5 +1,4 @@
 publications:
-
   # - number: '10'
   #   title: 'Profiles of expressed mutations in single cells reveal subclonal expansion patterns and therapeutic impact of intratumor heterogeneity'
   #   pubmed: ''
@@ -20,156 +19,156 @@ publications:
   #     - title: 'Presentation'
   #       url: 'https://youtu.be/q83JPB6qhTE'
 
-  - number: '10'
-    title: 'Beneficial infections of the enterovirus genus in patients with liver cancer'
-    pubmed: '40345802'
-    doi: '10.1136/gutjnl-2024-334681'
-    biorxivdoi: ''
-    cover: 'cover.beneficial.jpg'
+  - number: "10"
+    title: "Beneficial infections of the enterovirus genus in patients with liver cancer"
+    pubmed: "40345802"
+    doi: "10.1136/gutjnl-2024-334681"
+    biorxivdoi: ""
+    cover: "cover.beneficial.jpg"
     links:
-      - title: 'Gut'
-        url: 'http://doi.org/10.1136/gutjnl-2024-334681'
-      - title: 'Full text'
-        url: 'https://gut.bmj.com/content/74/10/1667'
-      - title: 'Supplementary'
-        url: 'https://gut.bmj.com/content/74/10/1667'
+      - title: "Gut"
+        url: "http://doi.org/10.1136/gutjnl-2024-334681"
+      - title: "Full text"
+        url: "https://gut.bmj.com/content/74/10/1667"
+      - title: "Supplementary"
+        url: "https://gut.bmj.com/content/74/10/1667"
 
-  - number: '9'
-    title: 'Stochastic modeling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones'
-    pubmed: '39701099'
-    doi: '10.1016/j.cels.2024.11.013'
-    biorxivdoi: '10.1101/2024.04.17.588869'
-    cover: 'cover.stochastic.jpg'
+  - number: "9"
+    title: "Stochastic modeling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones"
+    pubmed: "39701099"
+    doi: "10.1016/j.cels.2024.11.013"
+    biorxivdoi: "10.1101/2024.04.17.588869"
+    cover: "cover.stochastic.jpg"
     links:
-      - title: 'Cell Systems'
-        url: 'http://doi.org/10.1016/j.cels.2024.11.013'
-      - title: 'Full text'
-        url: 'https://www.cell.com/action/showPdf?pii=S2405-4712%2824%2900349-1'
-      - title: 'Supplementary'
-        url: 'https://www.cell.com/cms/10.1016/j.cels.2024.11.013/attachment/9af825e9-8a35-4c21-853b-e77e31e05f93/mmc1.pdf'
+      - title: "Cell Systems"
+        url: "http://doi.org/10.1016/j.cels.2024.11.013"
+      - title: "Full text"
+        url: "https://www.cell.com/action/showPdf?pii=S2405-4712%2824%2900349-1"
+      - title: "Supplementary"
+        url: "https://www.cell.com/cms/10.1016/j.cels.2024.11.013/attachment/9af825e9-8a35-4c21-853b-e77e31e05f93/mmc1.pdf"
 
-  - number: '8'
-    title: 'Genome-wide profiling of transcription factor activity in primary liver cancer using single-cell ATAC sequencing'
-    pubmed: '37980571'
-    doi: '10.1016/j.celrep.2023.113446'
-    biorxivdoi: ''
-    cover: 'cover.atacseq.jpg'
+  - number: "8"
+    title: "Genome-wide profiling of transcription factor activity in primary liver cancer using single-cell ATAC sequencing"
+    pubmed: "37980571"
+    doi: "10.1016/j.celrep.2023.113446"
+    biorxivdoi: ""
+    cover: "cover.atacseq.jpg"
     links:
-      - title: 'Cell Reports'
-        url: 'http://doi.org/10.1016/j.celrep.2023.113446'
-      - title: 'Full text'
-        url: 'https://www.cell.com/action/showPdf?pii=S2211-1247%2823%2901458-4'
-      - title: 'Supplementary'
-        url: 'https://www.cell.com/cms/10.1016/j.celrep.2023.113446/attachment/040a71ad-c408-4b80-acc4-18599889bd69/mmc1.pdf'
+      - title: "Cell Reports"
+        url: "http://doi.org/10.1016/j.celrep.2023.113446"
+      - title: "Full text"
+        url: "https://www.cell.com/action/showPdf?pii=S2211-1247%2823%2901458-4"
+      - title: "Supplementary"
+        url: "https://www.cell.com/cms/10.1016/j.celrep.2023.113446/attachment/040a71ad-c408-4b80-acc4-18599889bd69/mmc1.pdf"
 
-  - number: '7'
-    title: 'Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models'
-    pubmed: '37316351'
-    doi: '10.1101/gr.277608.122'
-    biorxivdoi: '10.1101/2021.03.22.436475'
-    cover: 'cover.sgootr.jpg'
+  - number: "7"
+    title: "Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models"
+    pubmed: "37316351"
+    doi: "10.1101/gr.277608.122"
+    biorxivdoi: "10.1101/2021.03.22.436475"
+    cover: "cover.sgootr.jpg"
     links:
-      - title: 'Genome Research'
-        url: 'http://doi.org/10.1101/gr.277608.122'
-      - title: 'RECOMB 2023 Proceedings'
-        url: 'http://recomb2023.bilkent.edu.tr/program.html'
-      - title: 'Full text'
-        url: 'https://genome.cshlp.org/content/early/2023/08/11/gr.277608.122.full.pdf'
-      - title: 'Supplementary'
-        url: 'https://genome.cshlp.org/content/suppl/2023/08/11/gr.277608.122.DC1/Supplemental_Material.pdf'
-      - title: 'Code'
-        url: 'https://github.com/algo-cancer/Sgootr'
+      - title: "Genome Research"
+        url: "http://doi.org/10.1101/gr.277608.122"
+      - title: "RECOMB 2023 Proceedings"
+        url: "http://recomb2023.bilkent.edu.tr/program.html"
+      - title: "Full text"
+        url: "https://genome.cshlp.org/content/early/2023/08/11/gr.277608.122.full.pdf"
+      - title: "Supplementary"
+        url: "https://genome.cshlp.org/content/suppl/2023/08/11/gr.277608.122.DC1/Supplemental_Material.pdf"
+      - title: "Code"
+        url: "https://github.com/algo-cancer/Sgootr"
 
-  - number: '6'
-    title: 'Fast intratumor heterogeneity inference from single-cell sequencing data'
-    pubmed: '38177468'
-    doi: '10.1038/s43588-022-00298-x'
-    biorxivdoi: ''
-    cover: 'cover.huntress.jpg'
+  - number: "6"
+    title: "Fast intratumor heterogeneity inference from single-cell sequencing data"
+    pubmed: "38177468"
+    doi: "10.1038/s43588-022-00298-x"
+    biorxivdoi: ""
+    cover: "cover.huntress.jpg"
     links:
-      - title: 'Nature Computational Science'
-        url: 'https://www.nature.com/articles/s43588-022-00298-x'
-      - title: 'Full text'
-        url: ''
-      - title: 'Supplementary'
-        url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs43588-022-00298-x/MediaObjects/43588_2022_298_MOESM1_ESM.pdf'
-      - title: 'Code'
-        url: 'https://github.com/PASSIONLab/HUNTRESS'
+      - title: "Nature Computational Science"
+        url: "https://www.nature.com/articles/s43588-022-00298-x"
+      - title: "Full text"
+        url: ""
+      - title: "Supplementary"
+        url: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43588-022-00298-x/MediaObjects/43588_2022_298_MOESM1_ESM.pdf"
+      - title: "Code"
+        url: "https://github.com/PASSIONLab/HUNTRESS"
 
-  - number: '5'
-    title: 'Review on Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices'
-    pubmed: '34297621'
-    doi: '10.1089/cmb.2020.0595'
-    biorxivdoi: '10.1101/2020.07.15.204081'
-    cover: 'cover.binaryreview.jpg'
+  - number: "5"
+    title: "Review on Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices"
+    pubmed: "34297621"
+    doi: "10.1089/cmb.2020.0595"
+    biorxivdoi: "10.1101/2020.07.15.204081"
+    cover: "cover.binaryreview.jpg"
     links:
-      - title: 'Journal of Computational Biology'
-        url: 'https://www.liebertpub.com/doi/10.1089/cmb.2020.0595'
-      - title: 'Full text'
-        url: 'https://www.liebertpub.com/doi/pdf/10.1089/cmb.2020.0595'
+      - title: "Journal of Computational Biology"
+        url: "https://www.liebertpub.com/doi/10.1089/cmb.2020.0595"
+      - title: "Full text"
+        url: "https://www.liebertpub.com/doi/pdf/10.1089/cmb.2020.0595"
 
-  - number: '4'
-    title: 'A Transcriptionally Distinct Subpopulation of Healthy Acinar Cells Exhibit Features of Pancreatic Progenitors and PDAC'
-    pubmed: '34049974'
-    doi: '10.1158/0008-5472.CAN-21-0427'
-    biorxivdoi: ''
-    cover: 'cover.edgecell.jpg'
+  - number: "4"
+    title: "A Transcriptionally Distinct Subpopulation of Healthy Acinar Cells Exhibit Features of Pancreatic Progenitors and PDAC"
+    pubmed: "34049974"
+    doi: "10.1158/0008-5472.CAN-21-0427"
+    biorxivdoi: ""
+    cover: "cover.edgecell.jpg"
     links:
-      - title: 'Cancer Research'
-        url: 'https://doi.org/10.1158/0008-5472.CAN-21-0427'
-      - title: 'Full text'
-        url: 'https://aacrjournals.org/cancerres/article-pdf/81/15/3958/2978874/3958.pdf'
-      - title: 'Supplementary'
-        url: 'https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/15/10.1158_0008-5472.can-21-0427/3/00085472can210427-sup-260380_2_supp_7097408_qslns8.docx?Expires=1665743392&Signature=qCMTB~EKsEwmO-yhb7aIHCftCPhVWo1L1HvGy-jIFxHcO3OMubCnXpqQYXXL2UHBE-FSGY6~MlDe2fzLJCX-RRwLAJs4er9EQZuN11absfT0DQf4qZUdyAnnvb7cUfGhJ9QC~Z9Em2wi8eN9l9ffGGA-xVj0nEpXc4ybwPBPZDMFqmttrLN5do5TEqyzF5LE4NqITa7QIWIoECzAHAiV178CotmwnahXsqFYL04boxQkIeYMlnRYYh2SdgsJzCf5zcgBg0oA7WN3P2frZqEdfgRKqRRaCQoALMsKfoBjxSm432-3OI2HUP9c7Ix~55TxHgs2bz2AQXtIcPHLAon0Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
+      - title: "Cancer Research"
+        url: "https://doi.org/10.1158/0008-5472.CAN-21-0427"
+      - title: "Full text"
+        url: "https://aacrjournals.org/cancerres/article-pdf/81/15/3958/2978874/3958.pdf"
+      - title: "Supplementary"
+        url: "https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/15/10.1158_0008-5472.can-21-0427/3/00085472can210427-sup-260380_2_supp_7097408_qslns8.docx?Expires=1665743392&Signature=qCMTB~EKsEwmO-yhb7aIHCftCPhVWo1L1HvGy-jIFxHcO3OMubCnXpqQYXXL2UHBE-FSGY6~MlDe2fzLJCX-RRwLAJs4er9EQZuN11absfT0DQf4qZUdyAnnvb7cUfGhJ9QC~Z9Em2wi8eN9l9ffGGA-xVj0nEpXc4ybwPBPZDMFqmttrLN5do5TEqyzF5LE4NqITa7QIWIoECzAHAiV178CotmwnahXsqFYL04boxQkIeYMlnRYYh2SdgsJzCf5zcgBg0oA7WN3P2frZqEdfgRKqRRaCQoALMsKfoBjxSm432-3OI2HUP9c7Ix~55TxHgs2bz2AQXtIcPHLAon0Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 
-  - number: '3'
-    title: 'PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem'
-    pubmed: '32657358'
-    doi: '10.1093/bioinformatics/btaa464'
-    biorxivdoi: '10.1101/2020.02.06.938043'
-    cover: 'cover.phiscsbnb.jpg'
+  - number: "3"
+    title: "PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem"
+    pubmed: "32657358"
+    doi: "10.1093/bioinformatics/btaa464"
+    biorxivdoi: "10.1101/2020.02.06.938043"
+    cover: "cover.phiscsbnb.jpg"
     links:
-      - title: 'Bioinformatics'
-        url: 'https://doi.org/10.1093/bioinformatics/btaa464'
-      - title: 'ISMB 2020 Proceedings'
-        url: 'https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/hitseqcosi'
-      - title: 'Full text'
-        url: 'https://academic.oup.com/bioinformatics/article-pdf/36/Supplement_1/i169/33488705/btaa464.pdf'
-      - title: 'Supplementary'
-        url: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1664233093&Signature=OicXpa4QKK2KOdW4xYDIEkxiB8-2g4NNEfus5XANHmLehNuuy-i7naCqfYQRtPes2ZUjuQHP5NBJ6t8zgBlvug~GjPEyXx6wPghAXTF5bufw6a5bwsRVKv-NpqGnKinBm1DnWSIsmNHDTkBkZ~pPTWOXxqKyAd6mR1jajyjtF8bENvH9oa58vWFMnIFzLX75JZ5qt77cf5BNocbJ6MTgJWg62mPbxHgaKLTB7BamFLBTJk1dBCCe3JL9rtU1QqKGcqnkxdPM6dM4JoVHiSeNNxKB~8NseCxnnwSo9uUNooueBwq~jon7SJHxCtDTgQBWyT5PizEGmoz~Zrl6oouhJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA'
-      - title: 'Code'
-        url: 'https://github.com/algo-cancer/PhISCS-BnB'
-      - title: 'Presentation'
-        url: 'https://youtu.be/bZdGkjJBtJY'
+      - title: "Bioinformatics"
+        url: "https://doi.org/10.1093/bioinformatics/btaa464"
+      - title: "ISMB 2020 Proceedings"
+        url: "https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/hitseqcosi"
+      - title: "Full text"
+        url: "https://academic.oup.com/bioinformatics/article-pdf/36/Supplement_1/i169/33488705/btaa464.pdf"
+      - title: "Supplementary"
+        url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/Supplement_1/10.1093_bioinformatics_btaa464/2/btaa464_supplementary_data.pdf?Expires=1664233093&Signature=OicXpa4QKK2KOdW4xYDIEkxiB8-2g4NNEfus5XANHmLehNuuy-i7naCqfYQRtPes2ZUjuQHP5NBJ6t8zgBlvug~GjPEyXx6wPghAXTF5bufw6a5bwsRVKv-NpqGnKinBm1DnWSIsmNHDTkBkZ~pPTWOXxqKyAd6mR1jajyjtF8bENvH9oa58vWFMnIFzLX75JZ5qt77cf5BNocbJ6MTgJWg62mPbxHgaKLTB7BamFLBTJk1dBCCe3JL9rtU1QqKGcqnkxdPM6dM4JoVHiSeNNxKB~8NseCxnnwSo9uUNooueBwq~jon7SJHxCtDTgQBWyT5PizEGmoz~Zrl6oouhJA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+      - title: "Code"
+        url: "https://github.com/algo-cancer/PhISCS-BnB"
+      - title: "Presentation"
+        url: "https://youtu.be/bZdGkjJBtJY"
 
-  - number: '2'
-    title: 'Clonal Evolution and Heterogeneity of Osimertinib Acquired Resistance Mechanisms in EGFR Mutant Lung Cancer'
-    pubmed: '32483558'
-    doi: '10.1016/j.xcrm.2020.100007'
-    biorxivdoi: ''
-    cover: 'cover.osimertinib.jpg'
+  - number: "2"
+    title: "Clonal Evolution and Heterogeneity of Osimertinib Acquired Resistance Mechanisms in EGFR Mutant Lung Cancer"
+    pubmed: "32483558"
+    doi: "10.1016/j.xcrm.2020.100007"
+    biorxivdoi: ""
+    cover: "cover.osimertinib.jpg"
     links:
-      - title: 'Cell Reports Medicine'
-        url: 'https://doi.org/10.1016/j.xcrm.2020.100007'
-      - title: 'Full text'
-        url: 'https://www.cell.com/action/showPdf?pii=S2666-3791%2820%2930007-0'
-      - title: 'Supplementary'
-        url: 'https://www.cell.com/cms/10.1016/j.xcrm.2020.100007/attachment/7500f239-9397-419b-ad68-5b6cd40d82c8/mmc1.pdf'
+      - title: "Cell Reports Medicine"
+        url: "https://doi.org/10.1016/j.xcrm.2020.100007"
+      - title: "Full text"
+        url: "https://www.cell.com/action/showPdf?pii=S2666-3791%2820%2930007-0"
+      - title: "Supplementary"
+        url: "https://www.cell.com/cms/10.1016/j.xcrm.2020.100007/attachment/7500f239-9397-419b-ad68-5b6cd40d82c8/mmc1.pdf"
 
-  - number: '1'
-    title: 'PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
-    pubmed: '31628256'
-    doi: '10.1101/gr.234435.118'
-    biorxivdoi: '10.1101/376996'
-    cover: 'cover.phiscs.jpg'
+  - number: "1"
+    title: "PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data"
+    pubmed: "31628256"
+    doi: "10.1101/gr.234435.118"
+    biorxivdoi: "10.1101/376996"
+    cover: "cover.phiscs.jpg"
     links:
-      - title: 'Genome Research'
-        url: 'http://doi.org/10.1101/gr.234435.118'
-      - title: 'Full text'
-        url: 'https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf'
-      - title: 'Supplementary'
-        url: 'https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf'
-      - title: 'Code'
-        url: 'https://github.com/sfu-compbio/PhISCS'
-      - title: 'Presentation'
-        url: 'https://youtu.be/i8zetg_5n8g'
+      - title: "Genome Research"
+        url: "http://doi.org/10.1101/gr.234435.118"
+      - title: "Full text"
+        url: "https://genome.cshlp.org/content/early/2019/10/18/gr.234435.118.full.pdf"
+      - title: "Supplementary"
+        url: "https://genome.cshlp.org/content/suppl/2019/10/18/gr.234435.118.DC1/Supplemental_Material.pdf"
+      - title: "Code"
+        url: "https://github.com/sfu-compbio/PhISCS"
+      - title: "Presentation"
+        url: "https://youtu.be/i8zetg_5n8g"

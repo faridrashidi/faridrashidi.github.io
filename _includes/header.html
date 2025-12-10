@@ -1,19 +1,17 @@
-{% if page.title == "Home"
-   or page.title == "Publications"
-   or page.title == "Software"
-   or page.title == "Sport"
-%}{% assign showHeader = true %}{% endif %}
-
+{% if page.title == "Home" or page.title == "Publications" or page.title ==
+"Software" or page.title == "Sport" %}{% assign showHeader = true %}{% endif %}
 {% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        <a class="link" href="{{ site.url }}">
-            <img class="selfie" alt="{{ site.title }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-        </a>
-        <h1 class="title">{{ site.title }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+<header class="header-home {% if site.animation %}animated{% endif %}">
+  <a class="link" href="{{ site.url }}">
+    <img
+      class="selfie"
+      alt="{{ site.title }}"
+      src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"
+    />
+  </a>
+  <h1 class="title">{{ site.title }}</h1>
+  <h2 class="description">{{ site.bio }}</h2>
 
-        {% include social-links.html %}
-    </header>
-{% endif %}
-
-{% include nav.html %}
+  {% include social-links.html %}
+</header>
+{% endif %} {% include nav.html %}

@@ -1,78 +1,77 @@
 software:
+  - number: "7"
+    title: "scPhylo-tools: a python toolkit for single-cell tumor phylogenetic analysis"
+    url: "https://github.com/faridrashidi/scphylo-tools"
+    id: "faridrashidi/scphylo-tools"
+    cover: "logo.scphylotools.webp"
+    links:
+      - title: "Webpage"
+        url: "https://scphylo-tools.readthedocs.io"
+      - title: "Code"
+        url: "https://github.com/faridrashidi/scphylo-tools"
 
-  - number: '7'
-    title: 'scPhylo-tools: a python toolkit for single-cell tumor phylogenetic analysis'
-    url: 'https://github.com/faridrashidi/scphylo-tools'
-    id: 'faridrashidi/scphylo-tools'
-    cover: 'logo.scphylotools.webp'
+  - number: "6"
+    title: "Trisicell: a scalable tumor phylogeny reconstruction and validation tool using single-cell data"
+    url: "https://github.com/faridrashidi/trisicell"
+    id: "faridrashidi/trisicell"
+    cover: "logo.trisicell.webp"
     links:
-      - title: 'Webpage'
-        url: 'https://scphylo-tools.readthedocs.io'
-      - title: 'Code'
-        url: 'https://github.com/faridrashidi/scphylo-tools'
-  
-  - number: '6'
-    title: 'Trisicell: a scalable tumor phylogeny reconstruction and validation tool using single-cell data'
-    url: 'https://github.com/faridrashidi/trisicell'
-    id: 'faridrashidi/trisicell'
-    cover: 'logo.trisicell.webp'
-    links:
-      - title: 'Webpage'
-        url: 'https://trisicell.readthedocs.io'
-      - title: 'Code'
-        url: 'https://github.com/faridrashidi/trisicell'
-      - title: 'Publication'
-        url: 'https://doi.org/10.1101/2021.03.26.437185'
+      - title: "Webpage"
+        url: "https://trisicell.readthedocs.io"
+      - title: "Code"
+        url: "https://github.com/faridrashidi/trisicell"
+      - title: "Publication"
+        url: "https://doi.org/10.1101/2021.03.26.437185"
 
-  - number: '5'
-    title: 'PhISCS: a tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data'
-    url: 'https://github.com/sfu-compbio/PhISCS'
-    id: 'sfu-compbio/PhISCS'
-    cover: 'logo.phiscs.webp'
+  - number: "5"
+    title: "PhISCS: a tool for sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data"
+    url: "https://github.com/sfu-compbio/PhISCS"
+    id: "sfu-compbio/PhISCS"
+    cover: "logo.phiscs.webp"
     links:
-      - title: 'Code'
-        url: 'https://github.com/sfu-compbio/PhISCS'
-      - title: 'Publication'
-        url: 'http://doi.org/10.1101/gr.234435.118'
+      - title: "Code"
+        url: "https://github.com/sfu-compbio/PhISCS"
+      - title: "Publication"
+        url: "http://doi.org/10.1101/gr.234435.118"
 
-  - number: '4'
-    title: 'PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-ceqll data via branch and bound algorithm'
-    url: 'https://github.com/algo-cancer/PhISCS-BnB'
-    id: 'algo-cancer/PhISCS-BnB'
-    cover: 'logo.phiscsbnb.webp'
+  - number: "4"
+    title: "PhISCS-BnB: a fast tool for reconstructing the perfect tumor phylogeny using single-ceqll data via branch and bound algorithm"
+    url: "https://github.com/algo-cancer/PhISCS-BnB"
+    id: "algo-cancer/PhISCS-BnB"
+    cover: "logo.phiscsbnb.webp"
     links:
-      - title: 'Code'
-        url: 'https://github.com/algo-cancer/PhISCS-BnB'
-      - title: 'Publication'
-        url: 'https://doi.org/10.1093/bioinformatics/btaa464'
+      - title: "Code"
+        url: "https://github.com/algo-cancer/PhISCS-BnB"
+      - title: "Publication"
+        url: "https://doi.org/10.1093/bioinformatics/btaa464"
 
-  - number: '3'
-    title: 'HUNTRESS: a provably fast intratumor heterogeneity inference from single-cell sequencing data'
-    url: 'https://github.com/PASSIONLab/HUNTRESS'
-    id: 'PASSIONLab/HUNTRESS'
-    cover: 'logo.huntress.webp'
+  - number: "3"
+    title: "HUNTRESS: a provably fast intratumor heterogeneity inference from single-cell sequencing data"
+    url: "https://github.com/PASSIONLab/HUNTRESS"
+    id: "PASSIONLab/HUNTRESS"
+    cover: "logo.huntress.webp"
     links:
-      - title: 'Code'
-        url: 'https://github.com/PASSIONLab/HUNTRESS'
-      - title: 'Publication'
-        url: 'https://doi.org/10.1038/s43588-022-00298-x'
+      - title: "Code"
+        url: "https://github.com/PASSIONLab/HUNTRESS"
+      - title: "Publication"
+        url: "https://doi.org/10.1038/s43588-022-00298-x"
 
-  - number: '2'
-    title: 'Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions'
-    url: 'https://farid.one/kaggle-solutions/'
-    id: 'faridrashidi/kaggle-solutions'
-    cover: 'logo.kaggle.webp'
+  - number: "2"
+    title: "Kaggle Solutions: a searchable list of almost all available solutions and ideas shared by top performers in the past Kaggle competitions"
+    url: "https://farid.one/kaggle-solutions/"
+    id: "faridrashidi/kaggle-solutions"
+    cover: "logo.kaggle.webp"
     links:
-      - title: 'Webpage'
-        url: 'https://farid.one/kaggle-solutions/'
-      - title: 'Code'
-        url: 'https://github.com/faridrashidi/kaggle-solutions'
+      - title: "Webpage"
+        url: "https://farid.one/kaggle-solutions/"
+      - title: "Code"
+        url: "https://github.com/faridrashidi/kaggle-solutions"
 
-  - number: '1'
-    title: 'MafiaDealer: a web application for dealing and managing of Mafia party game'
-    url: 'https://farid.one/mafia/'
-    id: ''
-    cover: 'logo.mafiadealer.webp'
+  - number: "1"
+    title: "MafiaDealer: a web application for dealing and managing of Mafia party game"
+    url: "https://farid.one/mafia/"
+    id: ""
+    cover: "logo.mafiadealer.webp"
     links:
-      - title: 'Webpage'
-        url: 'https://farid.one/mafia/'
+      - title: "Webpage"
+        url: "https://farid.one/mafia/"

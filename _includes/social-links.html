@@ -1,57 +1,104 @@
 <!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
 
 <div class="social-links">
-    {% if site.twitter %}
-        <a class="link" data-title="x.com/{{ site.twitter }}" href="https://x.com/{{ site.twitter }}" rel="noopener" alt="anchor link for social media twitter" aria-label="anchor link for social media x">
-            <i class="fa-brands fa-x-twitter"></i>
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" rel="noopener" alt="anchor link for social media github" aria-label="anchor link for social media github">
-            <i class="fa-brands fa-github"></i>
-        </a>
-    {% endif %}
-
-    {% if site.youtube %}
-        <a class="link" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" rel="noopener" alt="anchor link for social media youtube" aria-label="anchor link for social media youtube">
-            <i class="fa-brands fa-youtube"></i>
-        </a>
-    {% endif %}
-
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" rel="noopener" alt="anchor link for social media linkedin" aria-label="anchor link for social media linkedin">
-            <i class="fa fa-linkedin"></i>
-        </a>
-    {% endif %}
-
-    {% if site.orcid %}
-        <a class="link" data-title="orcid.org/{{ site.orcid }}" href="https://orcid.org/{{ site.orcid }}" rel="noopener" alt="anchor link for social media orcid" aria-label="anchor link for social media orcid">
-            <i class="fa-brands fa-orcid"></i>
-        </a>
-    {% endif %}
-
-    {% if site.scholar %}
-        <a class="link" data-title="scholar.google.com/{{ site.scholar }}" href="https://scholar.google.com/citations?user={{ site.scholar }}" rel="noopener" alt="anchor link for social media google scholar" aria-label="anchor link for social media google scholar">
-            <i class="fa-brands fa-google-scholar"></i>
-        </a>
-    {% endif %}
-
-    {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" rel="noopener" alt="anchor link for social media facebook" aria-label="anchor link for social media facebook">
-            <i class="fa-brands fa-facebook"></i>
-        </a>
-    {% endif %}
-
-    {% if site.instagram %}
-        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" rel="noopener" alt="anchor link for social media instagram" aria-label="anchor link for social media instagram">
-            <i class="fa-brands fa-instagram"></i>
-        </a>
-    {% endif %}
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}" rel="noopener" alt="anchor link for email" aria-label="anchor link for email">
-            <i class="fa-regular fa-envelope"></i>
-        </a>
-    {% endif %}
+  {% if site.twitter %}
+  <a
+    class="link"
+    data-title="x.com/{{ site.twitter }}"
+    href="https://x.com/{{ site.twitter }}"
+    rel="noopener"
+    alt="anchor link for social media twitter"
+    aria-label="anchor link for social media x"
+  >
+    <i class="fa-brands fa-x-twitter"></i>
+  </a>
+  {% endif %} {% if site.github %}
+  <a
+    class="link"
+    data-title="github.com/{{ site.github }}"
+    href="https://github.com/{{ site.github }}"
+    rel="noopener"
+    alt="anchor link for social media github"
+    aria-label="anchor link for social media github"
+  >
+    <i class="fa-brands fa-github"></i>
+  </a>
+  {% endif %} {% if site.youtube %}
+  <a
+    class="link"
+    data-title="youtube.com/{{ site.youtube }}"
+    href="https://youtube.com/{{ site.youtube }}"
+    rel="noopener"
+    alt="anchor link for social media youtube"
+    aria-label="anchor link for social media youtube"
+  >
+    <i class="fa-brands fa-youtube"></i>
+  </a>
+  {% endif %} {% if site.linkedin %}
+  <a
+    class="link"
+    data-title="linkedin.com/{{ site.linkedin }}"
+    href="https://www.linkedin.com/in/{{ site.linkedin }}"
+    rel="noopener"
+    alt="anchor link for social media linkedin"
+    aria-label="anchor link for social media linkedin"
+  >
+    <i class="fa fa-linkedin"></i>
+  </a>
+  {% endif %} {% if site.orcid %}
+  <a
+    class="link"
+    data-title="orcid.org/{{ site.orcid }}"
+    href="https://orcid.org/{{ site.orcid }}"
+    rel="noopener"
+    alt="anchor link for social media orcid"
+    aria-label="anchor link for social media orcid"
+  >
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  {% endif %} {% if site.scholar %}
+  <a
+    class="link"
+    data-title="scholar.google.com/{{ site.scholar }}"
+    href="https://scholar.google.com/citations?user={{ site.scholar }}"
+    rel="noopener"
+    alt="anchor link for social media google scholar"
+    aria-label="anchor link for social media google scholar"
+  >
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
+  {% endif %} {% if site.facebook %}
+  <a
+    class="link"
+    data-title="facebook.com/{{ site.facebook }}"
+    href="https://facebook.com/{{ site.facebook }}"
+    rel="noopener"
+    alt="anchor link for social media facebook"
+    aria-label="anchor link for social media facebook"
+  >
+    <i class="fa-brands fa-facebook"></i>
+  </a>
+  {% endif %} {% if site.instagram %}
+  <a
+    class="link"
+    data-title="instagram.com/{{ site.instagram }}"
+    href="https://instagram.com/{{ site.instagram }}"
+    rel="noopener"
+    alt="anchor link for social media instagram"
+    aria-label="anchor link for social media instagram"
+  >
+    <i class="fa-brands fa-instagram"></i>
+  </a>
+  {% endif %} {% if site.email %}
+  <a
+    class="link"
+    data-title="{{ site.email }}"
+    href="mailto:{{ site.email }}"
+    rel="noopener"
+    alt="anchor link for email"
+    aria-label="anchor link for email"
+  >
+    <i class="fa-regular fa-envelope"></i>
+  </a>
+  {% endif %}
 </div>
