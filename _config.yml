@@ -22,9 +22,9 @@ scholar: ed4YbAIAAAAJ
 # instagram: farid.rashidi
 # email: myemail@gmail.com
 
-publications: true
-software: true
-sport: true
+publications: false
+software: false
+sport: false
 
 width: large
 plugins:
@@ -37,11 +37,4 @@ compress_html:
     envs:
       - development
       - stage
-exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "vendor"]

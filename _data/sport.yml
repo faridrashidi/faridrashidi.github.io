@@ -1,0 +1,30 @@
+sport:
+  - number: "6"
+    image: "certificate.6.webp"
+    alt: "Certificate 6"
+    fullwidth: true
+
+  - number: "5"
+    image: "certificate.1.webp"
+    alt: "Certificate 1"
+    fullwidth: false
+
+  - number: "4"
+    image: "certificate.2.webp"
+    alt: "Certificate 2"
+    fullwidth: false
+
+  - number: "3"
+    image: "certificate.5.webp"
+    alt: "Certificate 5"
+    fullwidth: false
+
+  - number: "2"
+    image: "certificate.4.webp"
+    alt: "Certificate 4"
+    fullwidth: false
+
+  - number: "1"
+    image: "memory.1.webp"
+    alt: "Memory 1"
+    fullwidth: true
