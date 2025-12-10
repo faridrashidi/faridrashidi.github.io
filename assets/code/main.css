@@ -1,23 +1,23 @@
 a.btn {
-    text-decoration: none;
-    color: #A46F0D !important;
-    display: inline-block;
-    touch-action: manipulation;
-    border-color: #A46F0D !important;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    line-height: 1.5;
-    font-size: 12px;
-    padding: 0px 5px;
-    transition: all .5s;
+  text-decoration: none;
+  color: #a46f0d !important;
+  display: inline-block;
+  touch-action: manipulation;
+  border-color: #a46f0d !important;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  line-height: 1.5;
+  font-size: 12px;
+  padding: 0px 5px;
+  transition: all 0.5s;
 }
 a.btn:hover {
-    color: #fff !important;
-    background: #A46F0D !important;
+  color: #fff !important;
+  background: #a46f0d !important;
 }
 div.altmetric-embed img {
-    max-height:100% !important;
-    max-width:100% !important;
-    width: auto !important;
-    height : auto !important;
+  max-height: 100% !important;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
 }
