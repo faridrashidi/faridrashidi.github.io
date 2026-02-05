@@ -1,0 +1,125 @@
+---
+const publications = [
+  {
+    title:
+      "Beneficial infections of the enterovirus genus in patients with liver cancer",
+    journal: "Gut",
+    year: 2024,
+    doi: "10.1136/gutjnl-2024-334681",
+    image: "/images/cover.beneficial.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Stochastic modeling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones",
+    journal: "Cell Systems",
+    year: 2024,
+    doi: "10.1016/j.cels.2024.11.013",
+    image: "/images/cover.stochastic.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Genome-wide profiling of transcription factor activity in primary liver cancer using single-cell ATAC sequencing",
+    journal: "Cell Reports",
+    year: 2023,
+    doi: "10.1016/j.celrep.2023.113446",
+    image: "/images/cover.atacseq.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Single-cell methylation sequencing data reveal succinct metastatic migration histories and tumor progression models",
+    journal: "Genome Research",
+    year: 2023,
+    doi: "10.1101/gr.277608.122",
+    image: "/images/cover.sgootr.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Fast intratumor heterogeneity inference from single-cell sequencing data",
+    journal: "Nature Computational Science",
+    year: 2023,
+    doi: "10.1038/s43588-022-00298-x",
+    image: "/images/cover.huntress.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Review on Studying the History of Tumor Evolution from Single-Cell Sequencing Data by Exploring the Space of Binary Matrices",
+    journal: "Journal of Computational Biology",
+    year: 2021,
+    doi: "10.1089/cmb.2020.0595",
+    image: "/images/cover.binaryreview.jpg",
+    show: true,
+  },
+  {
+    title:
+      "A Transcriptionally Distinct Subpopulation of Healthy Acinar Cells Exhibit Features of Pancreatic Progenitors and PDAC",
+    journal: "Cancer Research",
+    year: 2021,
+    doi: "10.1158/0008-5472.CAN-21-0427",
+    image: "/images/cover.edgecell.jpg",
+    show: true,
+  },
+  {
+    title:
+      "PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem",
+    journal: "Bioinformatics",
+    year: 2020,
+    doi: "10.1093/bioinformatics/btaa464",
+    image: "/images/cover.phiscsbnb.jpg",
+    show: true,
+  },
+  {
+    title:
+      "Clonal Evolution and Heterogeneity of Osimertinib Acquired Resistance Mechanisms in EGFR Mutant Lung Cancer",
+    journal: "Cell Reports Medicine",
+    year: 2020,
+    doi: "10.1016/j.xcrm.2020.100007",
+    image: "/images/cover.osimertinib.jpg",
+    show: true,
+  },
+  {
+    title:
+      "PhISCS: a combinatorial approach for subperfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data",
+    journal: "Genome Research",
+    year: 2019,
+    doi: "10.1101/gr.234435.118",
+    image: "/images/cover.phiscs.jpg",
+    show: true,
+  },
+];
+---
+
+<section class="py-6">
+  <h2 class="text-xl font-bold mb-4">Publications</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    {
+      publications
+        .filter((p) => p.show)
+        .map((pub) => (
+          <a
+            href={`https://doi.org/${pub.doi}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-start gap-3 p-3 rounded-lg hover:bg-[var(--color-border)] transition-colors"
+          >
+            <img
+              src={pub.image}
+              alt={pub.title}
+              class="w-16 h-20 rounded object-cover flex-shrink-0"
+              loading="lazy"
+            />
+            <div>
+              <span class="font-medium text-sm">{pub.title}</span>
+              <p class="text-sm text-[var(--color-foreground)] opacity-70">
+                {pub.journal}, {pub.year}
+              </p>
+            </div>
+          </a>
+        ))
+    }
+  </div>
+</section>
