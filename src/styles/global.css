@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #fdfdfd;
+  --color-foreground: #282728;
+  --color-accent: #006cac;
+  --color-muted: #e6e6e6;
+  --color-border: #ece9e9;
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  :root.dark {
+    color-scheme: dark;
+    --color-background: #212737;
+    --color-foreground: #eaedf3;
+    --color-accent: #ff6b01;
+    --color-muted: #343f60bf;
+    --color-border: #ab4b08;
+  }
+  html {
+    font-family:
+      ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+      "Courier New", monospace;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+  }
+  a {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
