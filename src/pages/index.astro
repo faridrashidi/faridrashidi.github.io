@@ -1,0 +1,61 @@
+---
+import Layout from "../layouts/Layout.astro";
+import SocialLinks from "../components/SocialLinks.astro";
+// import Software from "../components/Software.astro";
+// import Publications from "../components/Publications.astro";
+// import Sport from "../components/Sport.astro";
+---
+
+<Layout>
+  <section
+    id="hero"
+    class="flex flex-col items-center justify-center min-h-[60vh] py-12"
+  >
+    <img
+      src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=512"
+      alt="Farid Rashidi"
+      class="w-32 h-32 rounded-full object-cover mb-6"
+    />
+    <h1 class="text-3xl font-bold mb-4">Farid Rashidi</h1>
+    <p class="text-[var(--color-text-muted)] text-center">
+      Ph.D. in Computer Science<br />
+      M.S. in Artificial Intelligence
+    </p>
+    <div class="mt-6 flex flex-row items-center justify-center">
+      <SocialLinks />
+    </div>
+  </section>
+
+  <!-- <section id="hero" class="pt-6 pb-4">
+    <div class="flex flex-col sm:flex-row items-start gap-4">
+      <img
+        src="https://www.gravatar.com/avatar/42125cfaaf0a859652acd4832533745d?s=512"
+        alt="Farid Rashidi"
+        class="w-40 h-40 rounded-full object-cover flex-shrink-0 mx-auto sm:mx-0"
+      />
+      <div class="flex-1 text-center sm:text-left">
+        <h1 class="my-2 inline-block text-2xl font-bold sm:my-4 sm:text-3xl">
+          Hi, I'm @farid.
+        </h1>
+        <p>
+          Ph.D. in Computer Science with expertise in Computational Biology and
+          Cancer Genomics.
+        </p>
+        <div
+          class="mt-4 flex flex-row items-center justify-center sm:justify-start"
+        >
+          <SocialLinks />
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <hr class="border-[var(--color-border)]" />
+  <Software /> -->
+
+  <!-- <hr class="border-[var(--color-border)]" />
+  <Publications /> -->
+
+  <!-- <hr class="border-[var(--color-border)]" />
+  <Sport /> -->
+</Layout>
