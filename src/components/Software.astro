@@ -1,0 +1,90 @@
+---
+const projects = [
+  {
+    name: "scPhylo-tools",
+    description: "A Python toolkit for single-cell tumor phylogenetic analysis",
+    url: "https://github.com/faridrashidi/scphylo-tools",
+    image: "/images/logo.scphylotools.webp",
+    show: true,
+  },
+  {
+    name: "Trisicell",
+    description:
+      "Scalable tumor phylogeny reconstruction and validation using single-cell data",
+    url: "https://github.com/faridrashidi/trisicell",
+    image: "/images/logo.trisicell.webp",
+    show: true,
+  },
+  {
+    name: "PhISCS",
+    description:
+      "Sub-perfect tumor phylogeny reconstruction via integrative use of single-cell and bulk sequencing data",
+    url: "https://github.com/sfu-compbio/PhISCS",
+    image: "/images/logo.phiscs.webp",
+    show: true,
+  },
+  {
+    name: "PhISCS-BnB",
+    description:
+      "Fast tool for reconstructing perfect tumor phylogeny using single-cell data via branch and bound algorithm",
+    url: "https://github.com/algo-cancer/PhISCS-BnB",
+    image: "/images/logo.phiscsbnb.webp",
+    show: true,
+  },
+  {
+    name: "HUNTRESS",
+    description:
+      "Provably fast intratumor heterogeneity inference from single-cell sequencing data",
+    url: "https://github.com/PASSIONLab/HUNTRESS",
+    image: "/images/logo.huntress.webp",
+    show: true,
+  },
+  {
+    name: "Kaggle Solutions",
+    description:
+      "Searchable list of solutions and ideas from top Kaggle competition performers",
+    url: "https://farid.one/kaggle-solutions/",
+    image: "/images/logo.kaggle.webp",
+    show: true,
+  },
+  {
+    name: "MafiaDealer",
+    description:
+      "A web application for dealing and managing of Mafia party game",
+    url: "https://farid.one/mafia/",
+    image: "/images/logo.mafiadealer.webp",
+    show: true,
+  },
+];
+---
+
+<section class="py-6">
+  <h2 class="text-xl font-bold mb-4">Software</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    {
+      projects
+        .filter((p) => p.show)
+        .map((project) => (
+          <a
+            href={project.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-start gap-3 p-3 rounded-lg hover:bg-[var(--color-border)] transition-colors"
+          >
+            <img
+              src={project.image}
+              alt={project.name}
+              class="w-12 h-12 rounded object-cover flex-shrink-0"
+              loading="lazy"
+            />
+            <div>
+              <span class="font-medium">{project.name}</span>
+              <p class="text-sm text-[var(--color-foreground)] opacity-70">
+                {project.description}
+              </p>
+            </div>
+          </a>
+        ))
+    }
+  </div>
+</section>
