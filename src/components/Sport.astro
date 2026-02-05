@@ -1,0 +1,60 @@
+---
+const items = [
+  {
+    image: "/images/certificate.6.webp",
+    alt: "Certificate 6",
+    fullwidth: true,
+    show: true,
+  },
+  {
+    image: "/images/certificate.1.webp",
+    alt: "Certificate 1",
+    fullwidth: false,
+    show: true,
+  },
+  {
+    image: "/images/certificate.2.webp",
+    alt: "Certificate 2",
+    fullwidth: false,
+    show: true,
+  },
+  {
+    image: "/images/certificate.5.webp",
+    alt: "Certificate 5",
+    fullwidth: false,
+    show: true,
+  },
+  {
+    image: "/images/certificate.4.webp",
+    alt: "Certificate 4",
+    fullwidth: false,
+    show: true,
+  },
+  {
+    image: "/images/memory.1.webp",
+    alt: "Memory 1",
+    fullwidth: true,
+    show: true,
+  },
+];
+---
+
+<section class="py-6">
+  <h2 class="text-xl font-bold mb-4">Sport</h2>
+  <div class="grid grid-cols-2 gap-4">
+    {
+      items
+        .filter((item) => item.show)
+        .map((item) => (
+          <div class={item.fullwidth ? "col-span-2" : "col-span-1"}>
+            <img
+              src={item.image}
+              alt={item.alt}
+              class="w-full h-auto rounded-lg"
+              loading="lazy"
+            />
+          </div>
+        ))
+    }
+  </div>
+</section>
