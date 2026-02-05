@@ -1,0 +1,133 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+}
+
+const { title = "Farid Rashidi" } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Farid Rashidi - Ph.D. in Computer Science"
+    />
+    <title>{title}</title>
+    <!-- Google Analytics -->
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-122994885-1"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-122994885-1");
+    </script>
+    <script is:inline>
+      const theme =
+        localStorage.getItem("theme") ||
+        (window.matchMedia("(prefers-color-scheme: dark)").matches
+          ? "dark"
+          : "light");
+      document.documentElement.classList.toggle("dark", theme === "dark");
+      // Set initial icon visibility after DOM is ready
+      document.addEventListener("DOMContentLoaded", () => {
+        const isDark = document.documentElement.classList.contains("dark");
+        document
+          .getElementById("sun-icon")
+          ?.classList.toggle("hidden", !isDark);
+        document
+          .getElementById("moon-icon")
+          ?.classList.toggle("hidden", isDark);
+      });
+    </script>
+  </head>
+  <body
+    class="min-h-screen flex flex-col bg-[var(--color-background)] text-[var(--color-foreground)]"
+  >
+    <div class="max-w-3xl mx-auto w-full px-4">
+      <header class="flex justify-end items-center py-6">
+        <button
+          id="theme-toggle"
+          class="p-1 hover:text-[var(--color-accent)]"
+          aria-label="Toggle theme"
+          title="Toggle light & dark"
+        >
+          <!-- Sun icon (shown in dark mode) -->
+          <svg
+            id="sun-icon"
+            class="hidden"
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2"></path>
+            <path d="M12 20v2"></path>
+            <path d="m4.93 4.93 1.41 1.41"></path>
+            <path d="m17.66 17.66 1.41 1.41"></path>
+            <path d="M2 12h2"></path>
+            <path d="M20 12h2"></path>
+            <path d="m6.34 17.66-1.41 1.41"></path>
+            <path d="m19.07 4.93-1.41 1.41"></path>
+          </svg>
+          <!-- Moon icon (shown in light mode) -->
+          <svg
+            id="moon-icon"
+            class="hidden"
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+          </svg>
+        </button>
+      </header>
+      <!-- <hr class="border-[var(--color-border)]" /> -->
+      <main>
+        <slot />
+      </main>
+      <hr class="border-[var(--color-border)] mt-8" />
+      <footer
+        class="py-6 text-center text-sm text-[var(--color-foreground)] opacity-70"
+      >
+        © 2018-{new Date().getFullYear()} Farid Rashidi
+      </footer>
+    </div>
+    <script>
+      document.getElementById("theme-toggle")?.addEventListener("click", () => {
+        const isDark = document.documentElement.classList.toggle("dark");
+        localStorage.setItem("theme", isDark ? "dark" : "light");
+        // Toggle icon visibility
+        document
+          .getElementById("sun-icon")
+          ?.classList.toggle("hidden", !isDark);
+        document
+          .getElementById("moon-icon")
+          ?.classList.toggle("hidden", isDark);
+      });
+    </script>
+  </body>
+</html>
